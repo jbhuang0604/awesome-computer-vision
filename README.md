@@ -1,4 +1,4 @@
-# awesome-computer-vision
+# Awesome Computer Vision
 A curated list of awesome computer vision resources, inspired by awesome-php.
 
 ## Contributing
