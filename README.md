@@ -7,10 +7,11 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 
  - [Books](#books)
  - [Courses](#courses)
+ - [Papers](#papers)
  - [Softwares](#softwares)
  - [Datasets](#datasets)
- - [Talks](#talks)
- - [Papers](#papers)
+ - [Talks](#tutorial and talk)
+ - [Applications](#applications)
 
 ## Books
 
@@ -24,6 +25,7 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 * * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman (University of Texas at Austin) and Bastian Leibe (RWTH Aachen University)
 * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang (MIT)
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
+
 #### Machine Learning
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop 2007
 * [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) - Christopher M. Bishop 1995
@@ -32,6 +34,7 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 * [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) - Tom M. Mitchell 1997
 * [Gaussian processes for machine learning] (http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen and Christopher K. I. Williams 2005
 * [Learning From Data](https://work.caltech.edu/telecourse.html)- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 2014
 
 ## Courses
 
@@ -68,6 +71,13 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
  * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
  
+## Papers
+ * [CVPapers](http://www.cvpapers.com/)
+ * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
+ * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
+ * [Computer Vision Conference](http://iris.usc.edu/Information/Iris-Conferences.html)
+
+
 ## Tutorial and talk
 
 #### Computer Vision
@@ -89,6 +99,9 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 #### Object Recognition
  * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (MSR)
 
+#### Machine Learning
+
+#### Deep Learning
 
 ## Software
 
@@ -98,26 +111,95 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [VLFeat](http://www.vlfeat.org/) 
 
-
-#### 3D Reconstruction
+#### Multiple-view Computer Vision
+* [http://www.robots.ox.ac.uk/~vgg/hzbook/code/](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
+* [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://www.csse.uwa.edu.au/~pk/Research/MatlabFns/index.html)
 * [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
+* [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
+* [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
+* [Multi-View Environment](http://www.gris.informatik.tu-darmstadt.de/projects/multiview-environment/)
+* [Visual SFM](http://ccwu.me/vsfm/)
+* [Bundler SFM](http://www.cs.cornell.edu/~snavely/bundler/)
+* [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/)
+* [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
+* [ Large-Scale Texturing of 3D Reconstructions](http://www.gris.informatik.tu-darmstadt.de/projects/mvs-texturing/)
 
 #### Feature Detection and Extraction
+* [VLFeat](http://www.vlfeat.org/) 
 
+
+#### Low-level Vision
+
+###### Stereo
+
+
+###### Optical flow
+
+###### Denoising
+BM3D, KSVD, 
+
+###### Super-resolution
+MRF, NE, SparseReg, ScSR, ANR, A+, SRCNN
+
+###### Deblurring
+
+###### Completion
+Resynthesizer, Criminisi, Photoshop, Priority BP, ShiftMap, PatchOffset, ImageMelding, StructureCompletion
+
+###### Retargeting
+
+###### Alpha Matting
+
+###### Edge-preserving image processing
+Bilateral filtering, 
+
+#### Contour Detection and Image Segmentation
+MS, FH, NC, Pb, SE, MI
+
+#### Camera calibration
+ * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
+ * [Camera calibration With OpenCV](http://docs.opencv.org/trunk/doc/tutorials/calib3d/camera_calibration/camera_calibration.html#)
+ * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
+ 
+ 
+#### Simultaneous localization and mapping
+
+#### Single-view Spatial Understanding
+
+#### Object Recognition
+
+#### Nearest Neighbor Search
+
+#### Visual Tracking
+* [Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
+* [Visual Tracking Challenge](http://www.votchallenge.net/)
+* [Kanade-Lucas-Tomasi Feature Tracker](http://www.ces.clemson.edu/~stb/klt/)
+* [Online-boosting Tracking](http://www.vision.ee.ethz.ch/boostingTrackers/)
+
+#### Saliency Detection
+
+#### Attributes
+
+#### Action Reconition
+
+#### Egocentric cameras
+
+#### Human-in-the-loop systems
 
 ## Dataset
 
 
-## Links
-* [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
-* [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 
+
+
+## Links
+* [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
+* [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
+* [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* 
 
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
-
-
-
 
 %
