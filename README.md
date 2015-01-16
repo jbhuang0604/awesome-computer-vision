@@ -23,7 +23,7 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 * [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer1999
 * * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman (University of Texas at Austin) and Bastian Leibe (RWTH Aachen University)
 * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang (MIT)
-
+* [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
 #### Machine Learning
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop 2007
 * [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) - Christopher M. Bishop 1995
@@ -68,7 +68,6 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
  * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
  
-
 ## Tutorial and talk
 
 #### Computer Vision
@@ -82,9 +81,10 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 #### Internet Vision
  * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (Cornell University)
  * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (Cornell University)
- 
+
 #### Computational Photography
  * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (MSR)
+ * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - Bill Freeman (MIT)
 
 #### Object Recognition
  * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (MSR)
@@ -92,6 +92,17 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 
 ## Software
 
+#### General Purpose Computer Vision Library
+* [Open CV](http://opencv.org/) 
+* [SimpleCV](http://simplecv.org/)
+* [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
+* [VLFeat](http://www.vlfeat.org/) 
+
+
+#### 3D Reconstruction
+* [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
+
+#### Feature Detection and Extraction
 
 
 ## Dataset
