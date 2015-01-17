@@ -2,6 +2,7 @@
 A curated list of awesome computer vision resources, inspired by awesome-php.
 
 ## Contributing
+Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to add links.
 
 ## Table of Contents
 
@@ -96,14 +97,13 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
  * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (Cornell University)
  * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (University of Washington)
 
-
 #### Computational Photography
  * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (MSR)
  * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - Bill Freeman (MIT)
  * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/)
  * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/)
  * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/)
-
+ * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk)
 
 #### Learning and Vision
  * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision)
@@ -119,7 +119,6 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
  * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/)
  * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/)
  * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models)
- * 
  
 #### Machine Learning
  * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf)
@@ -129,7 +128,6 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 #### Optimization
  * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/)
  * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization)
- * 
  
 #### Deep Learning
  * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/)
@@ -145,7 +143,6 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [VLFeat](http://www.vlfeat.org/) 
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
-* 
 
 #### Multiple-view Computer Vision
 * [http://www.robots.ox.ac.uk/~vgg/hzbook/code/](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
@@ -163,21 +160,43 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/) 
 * 
+
 #### Low-level Vision
 
 ###### Stereo
-
+ * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
+ * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
+ * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
+ * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
+ 
 ###### Optical flow
-
+ * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
+ * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
+ * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
+ * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
+ * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/)
+ * [Secrets of Optical Flow Estimation and Their Principles](http://cs.brown.edu/~dqsun/code/cvpr10_flow_code.zip)
+ 
 ###### Denoising
 BM3D, KSVD, 
 
 ###### Super-resolution
-MRF, NE, SparseReg, ScSR, ANR, A+, SRCNN
+ * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
+ * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
+ * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
+ * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
+ * [Single-Image Super-Resolution](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
+ * [Image Super-resolution via Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
+ * [Super-resolution through neighbor embedding](http://www.jdl.ac.cn/user/hchang/doc/code.rar)
+ * [Single Image Super-resolution using Deformable Patches](https://sites.google.com/site/yuzhushome/single-image-super-resolution-using-deformable-patches)
+ * [Image Super-Resolution Using Deep Convolutional Networks](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+ * [A+: Adjusted Anchored Neighborhood Regression](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/index.html)
 
 ###### Deblurring
 
 ###### Completion
+ * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
+ * 
 Resynthesizer, Criminisi, Photoshop, Priority BP, ShiftMap, PatchOffset, ImageMelding, StructureCompletion
 
 ###### Retargeting
@@ -202,7 +221,8 @@ MS, FH, NC, Pb, SE, MI
 
  
 #### Simultaneous localization and mapping
-
+ * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
+ * 
 #### Single-view Spatial Understanding
 
 #### Object Detection
