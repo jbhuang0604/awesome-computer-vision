@@ -86,27 +86,56 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 #### Computer Vision
 
  * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (UC Berkeley)
-
+ * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/)
 #### 3D Computer Vision
- * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (University of Washington)
+ * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image)
  * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington)
 
 #### Internet Vision
  * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (Cornell University)
  * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (Cornell University)
+ * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (University of Washington)
+
 
 #### Computational Photography
  * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (MSR)
  * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - Bill Freeman (MIT)
+ * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/)
+ * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/)
+ * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/)
+
+
+#### Learning and Vision
+ * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision)
+ * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/)
+ * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision)
 
 #### Object Recognition
  * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (MSR)
+ * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li)
 
+#### Graphical Models
+ * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision)
+ * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/)
+ * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/)
+ * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models)
+ * 
+ 
 #### Machine Learning
  * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf)
- *
+ * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/)
+ * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/)
+ 
+#### Optimization
+ * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/)
+ * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization)
+ * 
  
 #### Deep Learning
+ * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/)
+ * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#)
+ * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/)
+ * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning)
 
 ## Software
 
