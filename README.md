@@ -22,7 +22,8 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 * [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman 2004
 * [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) - Linda G. Shapiro 2001
 * [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer1999
-* * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman (University of Texas at Austin) and Bastian Leibe (RWTH Aachen University)
+
+* [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman (University of Texas at Austin) and Bastian Leibe (RWTH Aachen University)
 * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang (MIT)
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
 
@@ -71,8 +72,10 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
  * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
  
+
 ## Papers
  * [CVPapers](http://www.cvpapers.com/)
+ * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/)
  * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
  * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
  * [Computer Vision Conference](http://iris.usc.edu/Information/Iris-Conferences.html)
@@ -100,7 +103,9 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
  * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (MSR)
 
 #### Machine Learning
-
+ * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf)
+ *
+ 
 #### Deep Learning
 
 ## Software
@@ -110,6 +115,8 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 * [SimpleCV](http://simplecv.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [VLFeat](http://www.vlfeat.org/) 
+* [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
+* 
 
 #### Multiple-view Computer Vision
 * [http://www.robots.ox.ac.uk/~vgg/hzbook/code/](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
@@ -126,12 +133,10 @@ A curated list of awesome computer vision resources, inspired by awesome-php.
 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/) 
-
-
+* 
 #### Low-level Vision
 
 ###### Stereo
-
 
 ###### Optical flow
 
@@ -150,6 +155,11 @@ Resynthesizer, Criminisi, Photoshop, Priority BP, ShiftMap, PatchOffset, ImageMe
 
 ###### Alpha Matting
 
+###### Image Pyramids
+*[The Steerable Pyramid](http://www.cns.nyu.edu/~eero/steerpyr/)
+*[CurveLab](http://www.curvelet.org/)
+
+
 ###### Edge-preserving image processing
 Bilateral filtering, 
 
@@ -160,13 +170,20 @@ MS, FH, NC, Pb, SE, MI
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
  * [Camera calibration With OpenCV](http://docs.opencv.org/trunk/doc/tutorials/calib3d/camera_calibration/camera_calibration.html#)
  * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
- 
+
  
 #### Simultaneous localization and mapping
 
 #### Single-view Spatial Understanding
 
-#### Object Recognition
+#### Object Detection
+ * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
+ * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
+ * [VOC-DPM](https://github.com/rbgirshick/voc-dpm)
+ * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn)
+ * [SPP-Net](https://github.com/ShaoqingRen/SPP_net)
+ * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
+ * 
 
 #### Nearest Neighbor Search
 
@@ -186,7 +203,25 @@ MS, FH, NC, Pb, SE, MI
 
 #### Human-in-the-loop systems
 
-## Dataset
+## Benchmark
+
+## Dataset and Benchmark
+
+* Flow, Stereo, MVR, Matting, 
+* Object detection
+* Image classification
+* ImageNet challenging
+* Fine-grained
+* Pedestrian
+* Change detection
+* Saliency
+* Surveillence
+* Action
+* Pose
+* Retargeting
+* Super-resolution
+* Face
+
 
 
 
@@ -196,7 +231,7 @@ MS, FH, NC, Pb, SE, MI
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
 * [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
-* 
+* [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/)
 
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
