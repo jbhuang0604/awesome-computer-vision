@@ -283,9 +283,7 @@ Bilateral filtering,
 
 #### Human-in-the-loop systems
 
-## Benchmark
-
-## Dataset and Benchmark
+## Datasets
 
 #### Low-level Vision
 * Low-level: Flow, Stereo, Matting, 
