@@ -12,7 +12,8 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  - [Softwares](#softwares)
  - [Datasets](#datasets)
  - [Talks](#tutorial and talk)
- - [Applications](#applications)
+ - [Links](#links)
+ - [Songs](#songs)
 
 ## Books
 
@@ -142,7 +143,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky (University of Toronto)
  * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
 
-## Software
+## Softwares
 
 #### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/) 
