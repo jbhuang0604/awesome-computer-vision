@@ -22,10 +22,9 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
 * [Computer Vision: A Modern Approach (2nd edition)](http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk) - David Forsyth and Jean Ponce 2011
 * [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) - Richard Hartley and Andrew Zisserman 2004
 * [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) - Linda G. Shapiro 2001
-* [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer1999
-
-* [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman (University of Texas at Austin) and Bastian Leibe (RWTH Aachen University)
-* [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang (MIT)
+* [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer 1999
+* [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman and Bastian Leibe 2011
+* [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang 1995
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
 
 #### Machine Learning
@@ -65,76 +64,82 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
 * [Introduction to Visual Computing](http://www.cs.toronto.edu/~kyros/courses/320/) - Kyros Kutulakos (University of Toronto)
 * [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (University of Toronto)
 
-#### Machine Learning
- * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford)
-
+#### Machine Learning and Statistical Learning
+ * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford University)
+ * [Learning from Data](https://work.caltech.edu/telecourse.html) - Yaser S. Abu-Mostafa (Caltech)
+ * [Statistical Learning](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Trevor Hastie and Rob Tibshirani (Stanford University)
+ * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (MIT)
+ * [Statistical Learning](http://www.stat.rice.edu/~gallen/stat640.html) - Genevera Allen (Rice University)
+ * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (UC Berkeley)
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
  * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
- 
+ * [Optimization at MIT](http://optimization.mit.edu/classes.php) - (MIT)
+ * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (CMU)
 
 ## Papers
- * [CVPapers](http://www.cvpapers.com/)
- * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/)
+ * [CVPapers](http://www.cvpapers.com/) - Computer vision papers on the web
+ * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
+ * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
  * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
  * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
  * [Computer Vision Conference](http://iris.usc.edu/Information/Iris-Conferences.html)
-
 
 ## Tutorial and talk
 
 #### Computer Vision
 
- * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (UC Berkeley)
- * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/)
+ * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (UC Berkeley) 2013
+ * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
+ 
 #### 3D Computer Vision
- * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image)
- * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington)
+ * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
+ * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
 
 #### Internet Vision
- * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (Cornell University)
- * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (Cornell University)
- * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (University of Washington)
+ * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (Cornell University) 2011
+ * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) - Noah Snavely (Cornell University) 2014
+ * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) - Steve Seitz (University of Washington) 2013
 
 #### Computational Photography
- * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (MSR)
- * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - Bill Freeman (MIT)
- * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/)
- * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/)
- * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/)
- * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk)
+ * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (Microsoft Research) 2013
+ * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - William T. Freeman (MIT) 2011
+ * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (The Hebrew University of Jerusalem) 2011
+ * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar (UC Santa Cruz/Google) 2010
+ * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake (Microsoft Research) 2007
+ * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (MIT) 2012
 
 #### Learning and Vision
- * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision)
- * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/)
- * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision)
+ * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (MIT) 2011
+ * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (CMU) 2008
+ * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) - Yair Weiss (The Hebrew University of Jerusalem) 2009
 
 #### Object Recognition
- * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (MSR)
- * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li)
+ * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (Microsoft Research)
+ * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (Stanford University)
 
 #### Graphical Models
- * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision)
- * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/)
- * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/)
- * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models)
+ * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision) - Pedro Felzenszwalb (Brown University) 2012
+ * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/) - Zoubin Ghahramani (University of Cambridge) 2009
+ * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/) - Sam Roweis (NYU) 2006
+ * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (The Hebrew University of Jerusalem) 2009
  
 #### Machine Learning
- * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf)
- * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/)
- * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/)
+ * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (UC Berkeley) 1998
+ * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/) - Christopher Bishop (Microsoft Research) 2009
+ * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/) - Chih-Jen Lin (National Taiwan University) 2006
  
 #### Optimization
- * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/)
- * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization)
+ * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/) - Stephen J. Wright (University of Wisconsin-Madison)
+ * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization) - Lieven Vandenberghe (University of California, Los Angeles)
  
 #### Deep Learning
- * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/)
- * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#)
- * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/)
- * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning)
-
+ * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/) - Geoffrey E. Hinton (University of Toronto)
+ * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov (University of Toronto)
+ * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) - Yoshua Bengio (University of Montreal)
+ * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky (University of Toronto)
+ * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
 ## Software
 
 #### General Purpose Computer Vision Library
@@ -163,13 +168,13 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
 
 #### Low-level Vision
 
-###### Stereo
+###### Stereo Vision
  * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
  * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
  * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
  
-###### Optical flow
+###### Optical Flow
  * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
  * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
@@ -177,7 +182,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/)
  * [Secrets of Optical Flow Estimation and Their Principles](http://cs.brown.edu/~dqsun/code/cvpr10_flow_code.zip)
  
-###### Denoising
+###### Image Denoising
 BM3D, KSVD, 
 
 ###### Super-resolution
@@ -185,11 +190,11 @@ BM3D, KSVD,
  * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
  * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
  * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
- * [Single-Image Super-Resolution](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
- * [Image Super-resolution via Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
- * [Super-resolution through neighbor embedding](http://www.jdl.ac.cn/user/hchang/doc/code.rar)
- * [Single Image Super-resolution using Deformable Patches](https://sites.google.com/site/yuzhushome/single-image-super-resolution-using-deformable-patches)
- * [Image Super-Resolution Using Deep Convolutional Networks](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+ * [Sparse Coding](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
+ * [Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
+ * [Neighbor embedding](http://www.jdl.ac.cn/user/hchang/doc/code.rar)
+ * [Deformable Patches](https://sites.google.com/site/yuzhushome/single-image-super-resolution-using-deformable-patches)
+ * [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
  * [A+: Adjusted Anchored Neighborhood Regression](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/index.html)
 
 ###### Deblurring
@@ -197,7 +202,7 @@ BM3D, KSVD,
 ###### Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
  * 
-Resynthesizer, Criminisi, Photoshop, Priority BP, ShiftMap, PatchOffset, ImageMelding, StructureCompletion
+Resynthesizer, Criminisi, Photoshop, Priority BP, ShiftMap, PatchOffset, ImageMelding, PlanarCompletion
 
 ###### Retargeting
 
@@ -232,8 +237,7 @@ MS, FH, NC, Pb, SE, MI
  * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn)
  * [SPP-Net](https://github.com/ShaoqingRen/SPP_net)
  * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
- * 
-
+ 
 #### Nearest Neighbor Search
 
 #### Visual Tracking
@@ -256,7 +260,24 @@ MS, FH, NC, Pb, SE, MI
 
 ## Dataset and Benchmark
 
-* Flow, Stereo, MVR, Matting, 
+#### Low-level Vision
+* Low-level: Flow, Stereo, Matting, 
+* Retargeting
+* Super-resolution, deblurring
+
+#### Multi-view Reconsturction
+* Multiview
+
+#### Saliency Detection
+
+#### Visual Tracking
+
+#### Visual Survelliance
+
+#### Saliency Detection
+
+#### Visual Recognition
+* Recognition
 * Object detection
 * Image classification
 * ImageNet challenging
@@ -264,23 +285,29 @@ MS, FH, NC, Pb, SE, MI
 * Pedestrian
 * Change detection
 * Saliency
-* Surveillence
 * Action
 * Pose
-* Retargeting
-* Super-resolution
 * Face
 
 
 
+#### Action Recognition
 
+###### Image-based
 
+###### Video-based
+
+#### Dataset Compilation Links 
+ * [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/) - Which paper provides the best results on standard dataset X?
+ * [Computer Vision Dataset on the web](http://www.cvpapers.com/datasets.html)
+ * [Yet Another Computer Vision Index To Datasets](http://riemenschneider.hayko.at/vision/dataset/)
+ * [ComputerVisionOnline Datasets](http://www.computervisiononline.com/datasets)
+ * [CVOnline Dataset](http://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
 
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
 * [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
-* [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/)
 
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
