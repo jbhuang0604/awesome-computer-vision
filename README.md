@@ -71,6 +71,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (MIT)
  * [Statistical Learning](http://www.stat.rice.edu/~gallen/stat640.html) - Genevera Allen (Rice University)
  * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (UC Berkeley)
+
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
@@ -92,7 +93,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
 
  * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (UC Berkeley) 2013
  * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
- 
+
 #### 3D Computer Vision
  * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
  * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
@@ -124,22 +125,23 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/) - Zoubin Ghahramani (University of Cambridge) 2009
  * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/) - Sam Roweis (NYU) 2006
  * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (The Hebrew University of Jerusalem) 2009
- 
+
 #### Machine Learning
  * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (UC Berkeley) 1998
  * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/) - Christopher Bishop (Microsoft Research) 2009
  * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/) - Chih-Jen Lin (National Taiwan University) 2006
- 
+
 #### Optimization
  * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/) - Stephen J. Wright (University of Wisconsin-Madison)
  * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization) - Lieven Vandenberghe (University of California, Los Angeles)
- 
+
 #### Deep Learning
  * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/) - Geoffrey E. Hinton (University of Toronto)
  * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov (University of Toronto)
  * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) - Yoshua Bengio (University of Montreal)
  * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky (University of Toronto)
  * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
+
 ## Software
 
 #### General Purpose Computer Vision Library
@@ -163,8 +165,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
 * [ Large-Scale Texturing of 3D Reconstructions](http://www.gris.informatik.tu-darmstadt.de/projects/mvs-texturing/)
 
 #### Feature Detection and Extraction
-* [VLFeat](http://www.vlfeat.org/) 
-* 
+* [VLFeat](http://www.vlfeat.org/)
 
 #### Low-level Vision
 
@@ -181,7 +182,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
  * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/)
  * [Secrets of Optical Flow Estimation and Their Principles](http://cs.brown.edu/~dqsun/code/cvpr10_flow_code.zip)
- 
+
 ###### Image Denoising
 BM3D, KSVD, 
 
@@ -201,23 +202,48 @@ BM3D, KSVD,
 
 ###### Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
- * 
-Resynthesizer, Criminisi, Photoshop, Priority BP, ShiftMap, PatchOffset, ImageMelding, PlanarCompletion
+ * [Priority BP](http://lafarren.com/image-completer/)
+ * [PatchOffset], 
+ * [ImageMelding](http://www.ece.ucsb.edu/~psen/melding) 
+ * [PlanarStructureCompletion](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
 ###### Retargeting
 
 ###### Alpha Matting
+ * [Alpha Matting Evaluation](http://www.alphamatting.com/)
 
-###### Image Pyramids
+###### Image Pyramid
 *[The Steerable Pyramid](http://www.cns.nyu.edu/~eero/steerpyr/)
 *[CurveLab](http://www.curvelet.org/)
 
 
 ###### Edge-preserving image processing
+ * [Fast Bilateral Filter](http://people.csail.mit.edu/sparis/bf/)
+ * [O(1) Bilateral Filter](http://www.cs.cityu.edu.hk/~qiyang/publications/code/qx.cvpr09.ctbf.zip)
+ * [Recursive Bilateral Filtering](http://www.cs.cityu.edu.hk/~qiyang/publications/eccv-12/)
+ * [Rolling Guidance Filter](http://www.cse.cuhk.edu.hk/leojia/projects/rollguidance/)
+ * [Relative Total Variation](http://www.cse.cuhk.edu.hk/leojia/projects/texturesep/index.html)
+ * [L0 Gradient Optimization](http://www.cse.cuhk.edu.hk/leojia/projects/L0smoothing/index.html)
+ * [Domain Transform](http://www.inf.ufrgs.br/~eslgastal/DomainTransform/)
+ * [Adaptive Manifold](http://inf.ufrgs.br/~eslgastal/AdaptiveManifolds/)
+ * [Guided image filtering](http://research.microsoft.com/en-us/um/people/kahe/eccv10/)
 Bilateral filtering, 
 
 #### Contour Detection and Image Segmentation
-MS, FH, NC, Pb, SE, MI
+ * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
+ * [Graph-based Segmentation](http://cs.brown.edu/~pff/segment/)
+ * [Normalized Cut](http://www.cis.upenn.edu/~jshi/software/)
+ * [Contour Detection and Image Segmentation](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
+ * [Structured Edge Detection](http://research.microsoft.com/en-us/downloads/389109f6-b4e8-404c-84bf-239f7cbf4e3d/)
+ * [Pointwise Mutual Information](http://web.mit.edu/phillipi/pmi-boundaries/)
+ * [SLIC Super-pixel](http://ivrg.epfl.ch/research/superpixels)
+ * [QuickShift](http://www.vlfeat.org/overview/quickshift.html)
+ * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
+ * [SEEDS](http://www.mvdblive.org/seeds/)
+ * 
+
+#### Video Segmentation
+
 
 #### Camera calibration
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
