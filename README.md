@@ -11,8 +11,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  - [Papers](#papers)
  - [Softwares](#softwares)
  - [Datasets](#datasets)
- - [Talks](#tutorial-and-talk)
- - [Links](#links)
+ - [Tutorials and Talks](#tutorial-and-talk)
  - [Resources for students](#resources-for-students)
  - [Songs](#songs)
 
