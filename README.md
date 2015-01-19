@@ -11,7 +11,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Papers](#papers)
  - [Software](#software)
  - [Datasets](#datasets)
- - [Tutorials and Talks](#tutorial-and-talk)
+ - [Tutorials and Talks](#tutorials-and-talks)
  - [Resources for students](#resources-for-students)
  - [Links](#links)
  - [Songs](#songs)
