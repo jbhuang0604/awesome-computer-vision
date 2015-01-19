@@ -249,8 +249,8 @@ Blind deconvolution
  * [Improving Image Matting using Comprehensive Sampling Sets](http://www.alphamatting.com/ImprovingMattingComprehensiveSamplingSets_CVPR2013.zip)
 
 ###### Image Pyramid
-*[The Steerable Pyramid](http://www.cns.nyu.edu/~eero/steerpyr/)
-*[CurveLab](http://www.curvelet.org/)
+* [The Steerable Pyramid](http://www.cns.nyu.edu/~eero/steerpyr/)
+* [CurveLab](http://www.curvelet.org/)
 
 ###### Edge-preserving image processing
  * [Fast Bilateral Filter](http://people.csail.mit.edu/sparis/bf/)
@@ -262,7 +262,6 @@ Blind deconvolution
  * [Domain Transform](http://www.inf.ufrgs.br/~eslgastal/DomainTransform/)
  * [Adaptive Manifold](http://inf.ufrgs.br/~eslgastal/AdaptiveManifolds/)
  * [Guided image filtering](http://research.microsoft.com/en-us/um/people/kahe/eccv10/)
-
 
 #### Contour Detection and Image Segmentation
  * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
@@ -276,7 +275,6 @@ Blind deconvolution
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [SEEDS](http://www.mvdblive.org/seeds/)
 
-
 #### Video Segmentation
  * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
  * [Efficient hierarchical graph-based video segmentation](http://www.cc.gatech.edu/cpl/projects/videosegmentation/)
@@ -287,10 +285,11 @@ Blind deconvolution
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
  * [Camera calibration With OpenCV](http://docs.opencv.org/trunk/doc/tutorials/calib3d/camera_calibration/camera_calibration.html#)
  * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
-
  
 #### Simultaneous localization and mapping
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
+ * [openSLAM](https://www.openslam.org/)
+ * [RatSLAM](https://code.google.com/p/ratslam/)
  
 
 #### Single-view Spatial Understanding
