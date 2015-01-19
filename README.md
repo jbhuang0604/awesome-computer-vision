@@ -146,7 +146,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
 
 ## Softwares
 
-#### External Resources
+#### External Resources Links
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html)
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html) 
@@ -298,6 +298,14 @@ Bilateral filtering,
 
 ## Datasets
 
+#### External Dataset Link Collection
+ * [CV Datasets on the web](http://www.cvpapers.com/datasets.html) - CVPapers
+ * [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/) - Which paper provides the best results on standard dataset X?
+ * [Computer Vision Dataset on the web](http://www.cvpapers.com/datasets.html)
+ * [Yet Another Computer Vision Index To Datasets](http://riemenschneider.hayko.at/vision/dataset/)
+ * [ComputerVisionOnline Datasets](http://www.computervisiononline.com/datasets)
+ * [CVOnline Dataset](http://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
+
 #### Low-level Vision
 * Low-level: Flow, Stereo, Matting, 
 * Retargeting
@@ -334,13 +342,6 @@ Bilateral filtering,
 ###### Image-based
 
 ###### Video-based
-
-#### Dataset Compilation Links
- * [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/) - Which paper provides the best results on standard dataset X?
- * [Computer Vision Dataset on the web](http://www.cvpapers.com/datasets.html)
- * [Yet Another Computer Vision Index To Datasets](http://riemenschneider.hayko.at/vision/dataset/)
- * [ComputerVisionOnline Datasets](http://www.computervisiononline.com/datasets)
- * [CVOnline Dataset](http://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
 
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
