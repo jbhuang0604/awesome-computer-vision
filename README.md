@@ -189,8 +189,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 ###### Stereo Vision
  * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
- * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
  * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
+ * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
 
 ###### Optical Flow
  * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
@@ -365,10 +365,21 @@ Non-uniform Deblurring
  * [visionbib](http://datasets.visionbib.com/info-index.html)
 
 #### Low-level Vision
-* Low-level: Flow, Stereo, Matting, 
-* Retargeting
-* Super-resolution, deblurring
 
+###### Stereo Vision
+ * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
+ * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
+ * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
+ * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
+
+###### Optical Flow
+ * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
+ * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
+ * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
+ * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
+
+###### Image Super-resolution
+ * [Single-Image Super-Resolution: A Benchmark](https://eng.ucmerced.edu/people/cyang35/ECCV14/ECCV14.html)
 
 #### Intrinsic Images
  * [Ground-truth dataset and baseline evaluations for intrinsic image algorithms](http://www.mit.edu/~kimo/publications/intrinsic/)
