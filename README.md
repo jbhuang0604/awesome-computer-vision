@@ -2,7 +2,7 @@
 A curated list of awesome computer vision resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Contributing
-Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to add links.
+Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (jbhuang1@illinois.edu) to add links.
 
 ## Table of Contents
 
