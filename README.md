@@ -95,10 +95,12 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
  * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (UC Berkeley) 2013
  * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
+ * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
+ * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (Australian National University)
 
 #### 3D Computer Vision
- * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
  * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
+ * [Reconstructing the World from Photos on the Internet](https://www.youtube.com/watch?v=04Kgg3QEXFI) - Steve Seitz (University of Washington) 2013
 
 #### Internet Vision
  * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) - Noah Snavely (Cornell University) 2011
@@ -136,6 +138,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### Optimization
  * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/) - Stephen J. Wright (University of Wisconsin-Madison)
  * [Convex Optimization](http://videolectures.net/mlss07_vandenberghe_copt/?q=convex%20optimization) - Lieven Vandenberghe (University of California, Los Angeles)
+ * [Continuous Optimization in Computer Vision](https://www.youtube.com/watch?v=oZqoWozVDVg) - Andrew Fitzgibbon (Microsoft Research)
 
 #### Deep Learning
  * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/) - Geoffrey E. Hinton (University of Toronto)
@@ -143,6 +146,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) - Yoshua Bengio (University of Montreal)
  * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky (University of Toronto)
  * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
+ * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (NYU/Facebook Research)
 
 ## Softwares
 
