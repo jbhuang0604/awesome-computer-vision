@@ -38,6 +38,7 @@ Sources: [The Mathematics Geneology Project](http://www.genealogy.math.ndsu.noda
 * [Azriel Rosenfeld](http://en.wikipedia.org/wiki/Azriel_Rosenfeld) (University of Maryland)
    * [Mohamed Abdel-Mottaleb](http://ece.miami.edu/people/indextest.php?id=45) (University of Miami)
    * [Narendra Ahuja](http://vision.ai.illinois.edu/ahuja.html) (UIUC)
+     * [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/) (UC Merced)
    * [Rama Chellappa](http://www.umiacs.umd.edu/~rama/) (University of Maryland)
    * [Larry S. Davis](http://www.umiacs.umd.edu/~lsd/) (University of Maryland)
    * [Sven Dickinson](http://www.cs.toronto.edu/~sven/) (University of Toronto)
