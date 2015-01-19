@@ -1,5 +1,7 @@
 # People in Computer Vision
 
+Please feel free to send pull requests to add new links or correct wrong ones.
+
 Sources: [The Mathematics Geneology Project](http://www.genealogy.math.ndsu.nodak.edu/)
 
 * [Takeo Kanade](http://www.ri.cmu.edu/person.html?person_id=136) (CMU)
