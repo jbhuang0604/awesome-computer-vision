@@ -150,7 +150,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 ## Softwares
 
-#### External Resources Links
+#### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html)
@@ -160,7 +160,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Open CV](http://opencv.org/)
 * [SimpleCV](http://simplecv.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
-* [VLFeat](http://www.vlfeat.org/) 
+* [VLFeat](http://www.vlfeat.org/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 
 #### Multiple-view Computer Vision
@@ -247,7 +247,6 @@ Blind deconvolution
 *[The Steerable Pyramid](http://www.cns.nyu.edu/~eero/steerpyr/)
 *[CurveLab](http://www.curvelet.org/)
 
-
 ###### Edge-preserving image processing
  * [Fast Bilateral Filter](http://people.csail.mit.edu/sparis/bf/)
  * [O(1) Bilateral Filter](http://www.cs.cityu.edu.hk/~qiyang/publications/code/qx.cvpr09.ctbf.zip)
@@ -299,10 +298,10 @@ Blind deconvolution
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
  * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
  * [VOC-DPM](https://github.com/rbgirshick/voc-dpm)
+ * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
  * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn)
  * [SPP-Net](https://github.com/ShaoqingRen/SPP_net)
- * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
- 
+
 #### Nearest Neighbor Search
 
 ###### General purpose nearest neighbor search
@@ -375,6 +374,7 @@ Blind deconvolution
 * Object detection
 * Image classification
 * ImageNet challenging
+* Semantic labeling
 * Fine-grained
 * Pedestrian
 * Change detection
