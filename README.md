@@ -205,17 +205,21 @@ BM3D, KSVD,
  * [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
  * [A+: Adjusted Anchored Neighborhood Regression](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/index.html)
 
-###### Deblurring
+###### Image Deblurring
 
-###### Completion
+####### Non-blind deconvolution
+
+####### Blind deconvolution
+
+###### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
  * [Priority BP](http://lafarren.com/image-completer/)
- * [PatchOffset], 
  * [ImageMelding](http://www.ece.ucsb.edu/~psen/melding) 
  * [PlanarStructureCompletion](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
-###### Retargeting
-
+###### Image Retargeting
+ * [RetargetMe](http://people.csail.mit.edu/mrub/retargetme/) 
+ 
 ###### Alpha Matting
  * [Alpha Matting Evaluation](http://www.alphamatting.com/)
 
@@ -234,7 +238,7 @@ BM3D, KSVD,
  * [Domain Transform](http://www.inf.ufrgs.br/~eslgastal/DomainTransform/)
  * [Adaptive Manifold](http://inf.ufrgs.br/~eslgastal/AdaptiveManifolds/)
  * [Guided image filtering](http://research.microsoft.com/en-us/um/people/kahe/eccv10/)
-Bilateral filtering, 
+
 
 #### Contour Detection and Image Segmentation
  * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
@@ -297,7 +301,6 @@ Bilateral filtering,
 
 #### Human-in-the-loop systems
 
-
 #### Optimization
  * [Ceres Solver](http://ceres-solver.org/) - Nonlinear optimization
 
@@ -311,6 +314,7 @@ Bilateral filtering,
  * [ComputerVisionOnline Datasets](http://www.computervisiononline.com/datasets)
  * [CVOnline Dataset](http://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
  * [CV datasets](http://clickdamage.com/sourcecode/cv_datasets.php)
+ * [visionbib](http://datasets.visionbib.com/info-index.html)
 
 #### Low-level Vision
 * Low-level: Flow, Stereo, Matting, 
@@ -323,8 +327,15 @@ Bilateral filtering,
 #### Saliency Detection
 
 #### Visual Tracking
-
+ * [Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
+ * [Visual Tracker Benchmark v1.1](https://sites.google.com/site/benchmarkpami/)
+ * [VOT Challenge](http://www.votchallenge.net/)
+ * [Princeton Tracking Benchmark](http://tracking.cs.princeton.edu/)
+ 
 #### Visual Survelliance
+ * [VIRAT](http://www.viratdata.org/)
+ * [CAM2](https://cam2.ecn.purdue.edu/)
+ * 
 
 #### Saliency Detection
 
