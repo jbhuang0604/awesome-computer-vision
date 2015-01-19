@@ -305,6 +305,7 @@ Bilateral filtering,
  * [Yet Another Computer Vision Index To Datasets](http://riemenschneider.hayko.at/vision/dataset/)
  * [ComputerVisionOnline Datasets](http://www.computervisiononline.com/datasets)
  * [CVOnline Dataset](http://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
+ * [CV datasets](http://clickdamage.com/sourcecode/cv_datasets.php)
 
 #### Low-level Vision
 * Low-level: Flow, Stereo, Matting, 
