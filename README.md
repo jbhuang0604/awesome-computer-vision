@@ -221,18 +221,30 @@ Non-blind deconvolution
  * [Spatially variant non-blind deconvolution](http://homes.cs.washington.edu/~shanqi/work/spvdeconv/)
  * [Handling Outliers in Non-blind Image Deconvolution](http://cg.postech.ac.kr/research/deconv_outliers/)
  * [Hyper-Laplacian Priors](http://cs.nyu.edu/~dilip/research/fast-deconvolution/)
+ * [From Learning Models of Natural Image Patches to Whole Image Restoration](http://people.csail.mit.edu/danielzoran/epllcode.zip)
  * [Deep Convolutional Neural Network for Image Deconvolution](http://lxu.me/projects/dcnn/)
  * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
 
 Blind deconvolution
  * [Removing Camera Shake From A Single Photograph](http://www.cs.nyu.edu/~fergus/research/deblur.html)
+ * [High-quality motion deblurring from a single image](http://www.cse.cuhk.edu.hk/leojia/projects/motion_deblurring/)
  * [Two-Phase Kernel Estimation for Robust Motion Deblurring](http://www.cse.cuhk.edu.hk/leojia/projects/robust_deblur/)
  * [Blur kernel estimation using the radon transform](http://people.csail.mit.edu/taegsang/Documents/RadonDeblurringCode.zip)
  * [Fast motion deblurring](http://cg.postech.ac.kr/research/fast_motion_deblurring/)
+ * [Blind Deconvolution Using a Normalized Sparsity Measure](http://cs.nyu.edu//~dilip/research/blind-deconvolution/)
  * [Blur-kernel estimation from spectral irregularities](http://www.cs.huji.ac.il/~raananf/projects/deblur/)
  * [Efficient marginal likelihood optimization in blind deconvolution](http://www.wisdom.weizmann.ac.il/~levina/papers/LevinEtalCVPR2011Code.zip)
+ * [Unnatural L0 Sparse Representation for Natural Image Deblurring](http://www.cse.cuhk.edu.hk/leojia/projects/l0deblur/)
+ * [Edge-based Blur Kernel Estimation Using Patch Priors](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
  * [Blind Deblurring Using Internal Patch Recurrence](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
+Non-uniform Deblurring
+ * [Non-uniform Deblurring for Shaken Images](http://www.di.ens.fr/willow/research/deblurring/)
+ * [Single Image Deblurring Using Motion Density Functions](http://grail.cs.washington.edu/projects/mdf_deblurring/)
+ * [Image Deblurring using Inertial Measurement Sensors](http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/)
+ * [Fast Removal of Non-uniform Camera Shake](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/)
+  
+ 
 ###### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
  * [Priority BP](http://lafarren.com/image-completer/)
@@ -429,6 +441,9 @@ Blind deconvolution
 ###### Video-based
  * [HOLLYWOOD2 Dataset](http://www.di.ens.fr/~laptev/actions/hollywood2/)
  * 
+ 
+###### Image Deblurring
+ * [Sun dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
 
 ## Resources for students
 
