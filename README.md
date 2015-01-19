@@ -407,24 +407,28 @@ Blind deconvolution
  * [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
  * [SIFT Flow Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/siftflow/SiftFlowDataset.zip)
 
+###### Multi-view Object Detection
+ * [3D Object Dataset](http://cvgl.stanford.edu/resources.html)
+ * [EPFL Car Dataset](http://cvlab.epfl.ch/data/pose)
+ * [KTTI Dection Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php)
+ * [SUN 3D Dataset](http://sun3d.cs.princeton.edu/)
+ * [PASCAL 3D+](http://cvgl.stanford.edu/projects/pascal3d.html)
+ * [NYU Car Dataset](http://nyc3d.cs.cornell.edu/)
+
 ###### Fine-grained Visual Recognition
  * [Fine-grained Classification Challenge](https://sites.google.com/site/fgcomp2013/)
  * [Caltech-UCSD Birds 200](http://www.vision.caltech.edu/visipedia/CUB-200.html)
 
-* Pedestrian
-* Change detection
-* Saliency
-* Action
-* Pose
-* Face
-
-
+###### Pedestrian Detection
+ * [Caltech Pedestrian Detection Benchmark](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
 
 #### Action Recognition
 
 ###### Image-based
 
 ###### Video-based
+ * [HOLLYWOOD2 Dataset](http://www.di.ens.fr/~laptev/actions/hollywood2/)
+ * 
 
 ## Resources for students
 
