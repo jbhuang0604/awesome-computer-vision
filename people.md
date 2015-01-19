@@ -3,9 +3,10 @@
 Please feel free to send pull requests to add new links or correct wrong ones.
 
 Sources: 
- * [The Mathematics Geneology Project](http://www.genealogy.math.ndsu.nodak.edu/)
- * [Computer Vision Genealogy Project](https://sites.google.com/site/jbhuang0604/resources/computer-vision-genealogy-project) - [Jia-Bin Huang](https://sites.google.com/site/jbhuang0604) and [Wen-Sheng Chu](http://humansensing.cs.cmu.edu/wschu/index.html)
- 
+* [Computer Vision Genealogy Project](https://sites.google.com/site/jbhuang0604/resources/computer-vision-genealogy-project) - [Jia-Bin Huang](https://sites.google.com/site/jbhuang0604) and [Wen-Sheng Chu](http://humansensing.cs.cmu.edu/wschu/index.html)
+* [The Mathematics Geneology Project](http://www.genealogy.math.ndsu.nodak.edu/)
+
+== 
 * [Takeo Kanade](http://www.ri.cmu.edu/person.html?person_id=136) (CMU)
 * [Edward Adelson](http://persci.mit.edu/people/adelson) (MIT)
    * [William T. Freeman](https://billf.mit.edu/) (MIT)
