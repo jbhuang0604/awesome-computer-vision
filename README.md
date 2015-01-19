@@ -304,13 +304,16 @@ Non-uniform Deblurring
  * [SLIC Super-pixel](http://ivrg.epfl.ch/research/superpixels)
  * [QuickShift](http://www.vlfeat.org/overview/quickshift.html)
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
+ * [Entropy Rate Superpixel](http://mingyuliu.net/)
 
 #### Interactive Image Segmentation
-* [SEEDS](http://www.mvdblive.org/seeds/)
-* [Random Walker](http://cns.bu.edu/~lgrady/software.html)
-* [Geodesic Segmentation](http://www.tc.umn.edu/~baixx015/)
-* [Lazy Snapping](http://research.microsoft.com/apps/pubs/default.aspx?id=69040)
-
+ * [SEEDS](http://www.mvdblive.org/seeds/)
+ * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
+ * [Geodesic Segmentation](http://www.tc.umn.edu/~baixx015/)
+ * [Lazy Snapping](http://research.microsoft.com/apps/pubs/default.aspx?id=69040)
+ * [Power Watershed](http://powerwatershed.sourceforge.net/)
+ * [Geodesic Graph Cut](http://www.adobe.com/technology/people/san-jose/brian-price.html)
+ * [Segmentation by Transduction](http://www.cs.cmu.edu/~olivierd/)
 
 #### Video Segmentation
  * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
@@ -327,7 +330,6 @@ Non-uniform Deblurring
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
  * [openSLAM](https://www.openslam.org/)
  * [RatSLAM](https://code.google.com/p/ratslam/)
- 
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
