@@ -358,6 +358,9 @@ Non-uniform Deblurring
 
 #### Human-in-the-loop systems
 
+#### Image Captioning
+ * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) - 
+
 #### Optimization
  * [Ceres Solver](http://ceres-solver.org/) - Nonlinear optimization
 
@@ -464,6 +467,11 @@ Non-uniform Deblurring
  
 ###### Image Deblurring
  * [Sun dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
+
+#### Image Captioning
+ * [Flickr 8K](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
+ * [Flickr 30K](http://shannon.cs.illinois.edu/DenotationGraph/)
+ * [Microsoft COCO](http://mscoco.org/)
 
 ## Resources for students
 
