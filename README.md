@@ -147,12 +147,13 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
 ## Softwares
 
 #### External Resources Links
+ * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html)
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html) 
 
 #### General Purpose Computer Vision Library
-* [Open CV](http://opencv.org/) 
+* [Open CV](http://opencv.org/)
 * [SimpleCV](http://simplecv.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [VLFeat](http://www.vlfeat.org/) 
@@ -187,7 +188,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
- * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/)
+ * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/) - Ce Liu (MIT)
  * [Secrets of Optical Flow Estimation and Their Principles](http://cs.brown.edu/~dqsun/code/cvpr10_flow_code.zip)
 
 ###### Image Denoising
@@ -198,7 +199,7 @@ BM3D, KSVD,
  * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
  * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
  * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
- * [Sparse Coding](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
+ * [Sparse Coding for Super-Resolution](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
  * [Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
  * [Neighbor embedding](http://www.jdl.ac.cn/user/hchang/doc/code.rar)
  * [Deformable Patches](https://sites.google.com/site/yuzhushome/single-image-super-resolution-using-deformable-patches)
