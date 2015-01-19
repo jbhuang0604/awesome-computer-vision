@@ -304,7 +304,13 @@ Non-uniform Deblurring
  * [SLIC Super-pixel](http://ivrg.epfl.ch/research/superpixels)
  * [QuickShift](http://www.vlfeat.org/overview/quickshift.html)
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
- * [SEEDS](http://www.mvdblive.org/seeds/)
+
+#### Interactive Image Segmentation
+* [SEEDS](http://www.mvdblive.org/seeds/)
+* [Random Walker](http://cns.bu.edu/~lgrady/software.html)
+* [Geodesic Segmentation](http://www.tc.umn.edu/~baixx015/)
+* [Lazy Snapping](http://research.microsoft.com/apps/pubs/default.aspx?id=69040)
+
 
 #### Video Segmentation
  * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
