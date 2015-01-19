@@ -13,6 +13,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  - [Datasets](#datasets)
  - [Tutorials and Talks](#tutorial-and-talk)
  - [Resources for students](#resources-for-students)
+ - [Links](#links)
  - [Songs](#songs)
 
 ## Books
@@ -360,10 +361,6 @@ Blind deconvolution
 
 ###### Video-based
 
-## Links
-* [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
-* [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
-* [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Resources for students
 
@@ -406,6 +403,12 @@ Blind deconvolution
 
 #### Time Management
  * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
+ 
+
+## Links
+* [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
+* [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
+* [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
