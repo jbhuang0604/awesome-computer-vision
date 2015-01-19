@@ -209,8 +209,19 @@ BM3D, KSVD,
 ###### Image Deblurring
 
 Non-blind deconvolution
+ * [Spatially variant non-blind deconvolution](http://homes.cs.washington.edu/~shanqi/work/spvdeconv/)
+ * [Handling Outliers in Non-blind Image Deconvolution](http://cg.postech.ac.kr/research/deconv_outliers/)
+ * [Hyper-Laplacian Priors](http://cs.nyu.edu/~dilip/research/fast-deconvolution/)
+ * [Deep Convolutional Neural Network for Image Deconvolution](http://lxu.me/projects/dcnn/)
+ * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
 
 Blind deconvolution
+ * [Removing Camera Shake From A Single Photograph](http://www.cs.nyu.edu/~fergus/research/deblur.html)
+ * [Two-Phase Kernel Estimation for Robust Motion Deblurring](http://www.cse.cuhk.edu.hk/leojia/projects/robust_deblur/)
+ * [Blur kernel estimation using the radon transform](http://people.csail.mit.edu/taegsang/Documents/RadonDeblurringCode.zip)
+ * [Fast motion deblurring](http://cg.postech.ac.kr/research/fast_motion_deblurring/)
+ * [Blur-kernel estimation from spectral irregularities](http://www.cs.huji.ac.il/~raananf/projects/deblur/)
+ * [Efficient marginal likelihood optimization in blind deconvolution](http://www.wisdom.weizmann.ac.il/~levina/papers/LevinEtalCVPR2011Code.zip)
 
 ###### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
@@ -223,6 +234,10 @@ Blind deconvolution
  
 ###### Alpha Matting
  * [Alpha Matting Evaluation](http://www.alphamatting.com/)
+ * [Closed-form image matting](http://people.csail.mit.edu/alevin/matting.tar.gz)
+ * [Spectral Matting](http://www.vision.huji.ac.il/SpectralMatting/)
+ * [Learning-based Matting](http://www.mathworks.com/matlabcentral/fileexchange/31412-learning-based-digital-matting)
+ * [Improving Image Matting using Comprehensive Sampling Sets](http://www.alphamatting.com/ImprovingMattingComprehensiveSamplingSets_CVPR2013.zip)
 
 ###### Image Pyramid
 *[The Steerable Pyramid](http://www.cns.nyu.edu/~eero/steerpyr/)
