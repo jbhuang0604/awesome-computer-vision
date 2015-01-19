@@ -150,7 +150,7 @@ and INRIA Paris-Rocquencourt)
    * [Li-Yi Wei](http://www.liyiwei.org/) (The University of Hong Kong)
    * [Szymon Rusinkeiwicz](http://www.cs.princeton.edu/~smr/) (Princeton University)
    * [Brian Curless](http://homes.cs.washington.edu/~curless/) (University of Washington)
-      * [[Li Zhang](http://pages.cs.wisc.edu/~lizhang/) (Google)]
+      * [[Li Zhang](http://pages.cs.wisc.edu/~lizhang/) (Google)
       * [Yung-Yu Chuang](http://www.csie.ntu.edu.tw/~cyy/) (National Taiwan University)
       * [Daniel Goldman](http://www.adobe.com/technology/people/seattle/dan-goldman.html) (Adobe)
    * [Philippe Lacroute](http://www.lacroute.org/lacroute/) (Stanford University)
