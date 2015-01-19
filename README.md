@@ -231,6 +231,7 @@ Blind deconvolution
  * [Fast motion deblurring](http://cg.postech.ac.kr/research/fast_motion_deblurring/)
  * [Blur-kernel estimation from spectral irregularities](http://www.cs.huji.ac.il/~raananf/projects/deblur/)
  * [Efficient marginal likelihood optimization in blind deconvolution](http://www.wisdom.weizmann.ac.il/~levina/papers/LevinEtalCVPR2011Code.zip)
+ * [Blind Deblurring Using Internal Patch Recurrence](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
 ###### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
