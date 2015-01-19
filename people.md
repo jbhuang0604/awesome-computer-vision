@@ -65,3 +65,24 @@ Sources: [The Mathematics Geneology Project](http://www.genealogy.math.ndsu.noda
 * [Berthold K.P. Horn](http://people.csail.mit.edu/bkph/) (MIT)
 * [Eric Grimson](http://people.csail.mit.edu/welg/) (MIT) 
 * [Frédo Durand](http://people.csail.mit.edu/fredo/) (MIT)
+
+* [Olivier Faugeras](http://www-sop.inria.fr/members/Olivier.Faugeras/index.en.html) (INRIA Sophia Antipolis)
+   * [Zhengyou Zhang](http://research.microsoft.com/en-us/um/people/zhang/) (Microsoft Research)
+   * [Pascal Fua](http://people.epfl.ch/pascal.fua) (EPFL)
+   * [Martial Hebert](http://www.cs.cmu.edu/~./hebert/) (CMU)
+      * [Andrew Johnson](https://www-robotics.jpl.nasa.gov/people/Andrew_Johnson/personFull.cfm) (JPL)
+   * [Michael Leventon](http://www.leventon.com/mit/) (D. E. Shaw & Co.)
+   * [Jonathan Touboul](http://mathematical-neuroscience.net/team/jonathan/) (Collège de France
+and INRIA Paris-Rocquencourt)
+   * [Jean Ponce](http://www.di.ens.fr/~ponce/) (Ecole Normale Supérieure)
+      * [Yasutaka Furukawa](http://www.cse.wustl.edu/~furukawa/) (Washington University in St. Louis)
+      * [Oliver Whyte](http://www.oliver-whyte.com/) (Microsoft)
+      * [Y-Lan Boureau](http://cs.nyu.edu/~ylan/) (NYU)
+      * [Olivier Duchenne](http://www.di.ens.fr/willow/publications/Author/DUCHENNE-O.html) (Inter Korea)
+      * [Armand Joulin](http://ai.stanford.edu/~ajoulin/) (Facebook AI Research)
+      * [Svetlana Lazebnik](http://web.engr.illinois.edu/~slazebni/) (UIUC)
+        * [Joseph Tighe](http://www.cs.unc.edu/~jtighe/) (Amazon)
+        * [Yunchao Gong](http://www.unc.edu/~yunchao/) (Facebook AI Research)
+* [Jan J. Koenderink](http://mmi.tudelft.nl/?q=node/7513) (Delft University of Technology and Katholieke Universiteit Leuven)
+* 
+* 
