@@ -52,5 +52,5 @@ Sources: [The Mathematics Geneology Project](http://www.genealogy.math.ndsu.noda
 * [Antonio Torralba](http://web.mit.edu/torralba/www/) (MIT)
 * [William T. Freeman](https://billf.mit.edu/) (MIT)
 * [Berthold K.P. Horn](http://people.csail.mit.edu/bkph/) (MIT)
-* [Eric Grimson](http://people.csail.mit.edu/welg/) (MIT)
+* [Eric Grimson](http://people.csail.mit.edu/welg/) (MIT) 
 * [Frédo Durand](http://people.csail.mit.edu/fredo/) (MIT)
