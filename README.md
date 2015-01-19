@@ -207,9 +207,9 @@ BM3D, KSVD,
 
 ###### Image Deblurring
 
-####### Non-blind deconvolution
+Non-blind deconvolution
 
-####### Blind deconvolution
+Blind deconvolution
 
 ###### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
