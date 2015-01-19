@@ -194,9 +194,13 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/) 
   * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
 * [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
+  * Stefan Leutenegger, Margarita Chli and Roland Siegwart, "BRISK: Binary Robust Invariant Scalable Keypoints", ICCV 2011
 * [SURF](http://www.vision.ee.ethz.ch/~surf/)
+  * Herbert Bay, Andreas Ess, Tinne Tuytelaars, Luc Van Gool, "SURF: Speeded Up Robust Features", Computer Vision and Image Understanding (CVIU), Vol. 110, No. 3, pp. 346--359, 2008
 * [FREAK](http://www.ivpe.com/freak.htm)
+  * A. Alahi, R. Ortiz, and P. Vandergheynst, "FREAK: Fast Retina Keypoint", CVPR 2012
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
+  * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
 
 #### Low-level Vision
 
