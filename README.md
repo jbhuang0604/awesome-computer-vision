@@ -192,6 +192,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
 * [SURF](http://www.vision.ee.ethz.ch/~surf/)
 * [FREAK](http://www.ivpe.com/freak.htm)
+* [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
 
 #### Low-level Vision
 
