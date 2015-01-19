@@ -73,6 +73,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (MIT)
  * [Statistical Learning](http://www.stat.rice.edu/~gallen/stat640.html) - Genevera Allen (Rice University)
  * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (UC Berkeley)
+ * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (University of Cambridge) 
 
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
@@ -87,9 +88,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
  * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
  * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
- * [Computer Vision Conference](http://iris.usc.edu/Information/Iris-Conferences.html)
+ * [Calendar of Computer Image Analysis, Computer Vision Conferences](http://iris.usc.edu/Information/Iris-Conferences.html) - (USC)
 
-## Tutorial and talk
+## Tutorials and talks
 
 #### Computer Vision
 
@@ -134,6 +135,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (UC Berkeley) 1998
  * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/) - Christopher Bishop (Microsoft Research) 2009
  * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/) - Chih-Jen Lin (National Taiwan University) 2006
+ * [Bayesian or Frequentist, Which Are You? ](http://videolectures.net/mlss09uk_jordan_bfway/) - Michael I. Jordan (UC Berkeley)
 
 #### Optimization
  * [Optimization Algorithms in Machine Learning](http://videolectures.net/nips2010_wright_oaml/) - Stephen J. Wright (University of Wisconsin-Madison)
@@ -178,6 +180,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
+* [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
+* [SURF](http://www.vision.ee.ethz.ch/~surf/)
+* [FREAK](http://www.ivpe.com/freak.htm)
 
 #### Low-level Vision
 
