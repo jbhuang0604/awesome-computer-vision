@@ -13,6 +13,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  - [Datasets](#datasets)
  - [Talks](#tutorial and talk)
  - [Links](#links)
+ - [Resources for students](#resources for students)
  - [Songs](#songs)
 
 ## Books
