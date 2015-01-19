@@ -181,7 +181,7 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
  * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
  * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
- 
+
 ###### Optical Flow
  * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
  * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
@@ -247,7 +247,7 @@ Bilateral filtering,
  * [QuickShift](http://www.vlfeat.org/overview/quickshift.html)
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [SEEDS](http://www.mvdblive.org/seeds/)
- * 
+
 
 #### Video Segmentation
  * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
@@ -263,8 +263,13 @@ Bilateral filtering,
  
 #### Simultaneous localization and mapping
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
- * 
+ 
+
 #### Single-view Spatial Understanding
+ * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
+ * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (UIUC)
+ * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (CMU)
+ * [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
 
 #### Object Detection
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
