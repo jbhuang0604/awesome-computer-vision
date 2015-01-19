@@ -357,8 +357,17 @@ Blind deconvolution
 * Retargeting
 * Super-resolution, deblurring
 
+
+#### Intrinsic Images
+ * [Ground-truth dataset and baseline evaluations for intrinsic image algorithms](http://www.mit.edu/~kimo/publications/intrinsic/)
+ * [Intrinsic Images in the Wild](http://opensurfaces.cs.cornell.edu/intrinsic/)
+ 
+#### Material Recognition
+ * [OpenSurface](http://opensurfaces.cs.cornell.edu/)
+ * [Flickr Material Database](http://people.csail.mit.edu/celiu/CVPR2010/)
+
 #### Multi-view Reconsturction
-* Multiview
+* [Multi-View Stereo Reconstruction](http://vision.middlebury.edu/mview/)
 
 #### Saliency Detection
 
@@ -371,17 +380,37 @@ Blind deconvolution
 #### Visual Survelliance
  * [VIRAT](http://www.viratdata.org/)
  * [CAM2](https://cam2.ecn.purdue.edu/)
- * 
-
+ 
 #### Saliency Detection
 
+#### Change detection
+ * [ChangeDetection.net](http://changedetection.net/)
+ 
 #### Visual Recognition
-* Recognition
-* Object detection
-* Image classification
-* ImageNet challenging
-* Semantic labeling
-* Fine-grained
+
+###### Image Classification
+ * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
+ * [ImageNet Large Scale Visual Recognition Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
+ 
+###### Scene Recognition
+ * [SUN Database](http://groups.csail.mit.edu/vision/SUN/)
+ * [Place Dataset](http://places.csail.mit.edu/)
+
+###### Object Detection
+ * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
+ * [ImageNet Object Detection Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
+ * [Microsoft COCO](http://mscoco.org/)
+ 
+###### Semantic labeling
+ * [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
+ * [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
+ * [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
+ * [SIFT Flow Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/siftflow/SiftFlowDataset.zip)
+
+###### Fine-grained Visual Recognition
+ * [Fine-grained Classification Challenge](https://sites.google.com/site/fgcomp2013/)
+ * [Caltech-UCSD Birds 200](http://www.vision.caltech.edu/visipedia/CUB-200.html)
+
 * Pedestrian
 * Change detection
 * Saliency
@@ -396,7 +425,6 @@ Blind deconvolution
 ###### Image-based
 
 ###### Video-based
-
 
 ## Resources for students
 
