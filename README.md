@@ -26,7 +26,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) - Linda G. Shapiro 2001
 * [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer 1999
 * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman and Bastian Leibe 2011
-* [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang 1995
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
 
 #### Machine Learning
@@ -38,6 +37,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Gaussian processes for machine learning] (http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen and Christopher K. I. Williams 2005
 * [Learning From Data](https://work.caltech.edu/telecourse.html)- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 2014
+
+#### Fundamentals
+ * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang 1995
 
 ## Courses
 
