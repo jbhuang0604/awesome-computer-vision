@@ -318,6 +318,7 @@ Blind deconvolution
  * [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
  * [Coherency Sensitive Hashing](http://www.eng.tau.ac.il/~simonk/CSH/)
  * [PMBP: PatchMatch Belief Propagation](https://github.com/fbesse/pmbp)
+ * [TreeCANN](http://www.eng.tau.ac.il/~avidan/papers/TreeCANN_code_20121022.rar)
 
 #### Visual Tracking
 * [Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
