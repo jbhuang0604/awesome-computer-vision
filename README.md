@@ -523,6 +523,7 @@ Non-uniform Deblurring
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
 * [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
