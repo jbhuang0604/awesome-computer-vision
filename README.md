@@ -145,6 +145,11 @@ Please feel free to send me pull requests or email (jbhuang1@illinois.edu) to ad
 
 ## Softwares
 
+#### External Resources
+ * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
+ * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html)
+ * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html) 
+
 #### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/) 
 * [SimpleCV](http://simplecv.org/)
@@ -244,7 +249,10 @@ Bilateral filtering,
  * 
 
 #### Video Segmentation
-
+ * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
+ * [Efficient hierarchical graph-based video segmentation](http://www.cc.gatech.edu/cpl/projects/videosegmentation/)
+ * [Object segmentation in video](http://lmb.informatik.uni-freiburg.de/Publications/2011/OB11/)
+ * [ Streaming hierarchical video segmentation](http://www.cse.buffalo.edu/~jcorso/r/supervoxels/)
 
 #### Camera calibration
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
@@ -282,6 +290,10 @@ Bilateral filtering,
 #### Egocentric cameras
 
 #### Human-in-the-loop systems
+
+
+#### Optimization
+ * [Ceres Solver](http://ceres-solver.org/) - Nonlinear optimization
 
 ## Datasets
 
@@ -322,7 +334,7 @@ Bilateral filtering,
 
 ###### Video-based
 
-#### Dataset Compilation Links 
+#### Dataset Compilation Links
  * [Are we there yet?](http://rodrigob.github.io/are_we_there_yet/build/) - Which paper provides the best results on standard dataset X?
  * [Computer Vision Dataset on the web](http://www.cvpapers.com/datasets.html)
  * [Yet Another Computer Vision Index To Datasets](http://riemenschneider.hayko.at/vision/dataset/)
@@ -333,6 +345,48 @@ Bilateral filtering,
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
 * [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+## Resources for students
+
+#### Resource link collection
+ * [Resources for students](http://people.csail.mit.edu/fredo/student.html) - Frédo Durand (MIT)
+ * [Advice for Graduate Students](http://www.dgp.toronto.edu/~hertzman/advice/) - Aaron Hertzmann (Adobe Research)
+ * [Graduate Skills Seminars](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/) - Yashar Ganjali, Aaron Hertzmann (University of Toronto)
+ * [Research Skills](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm) - Simon Peyton Jones (Microsoft Research)
+ 
+
+#### Writing
+ * [Write Good Papers](http://people.csail.mit.edu/fredo/FredoGoodWriting.pdf) - Frédo Durand (MIT)
+ * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) - Frédo Durand (MIT)
+ * [How to Write a Bad Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf) - Frédo Durand (MIT)
+ * [How to write a good CVPR submission](http://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) - William T. Freeman (MIT)
+ * [How to write a great research paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Simon Peyton Jones (Microsoft Research)
+ * [How to write a SIGGRAPH paper](http://www.slideshare.net/jdily/how-to-write-a-siggraph-paper) - SIGGRAPH ASIA 2011 Course
+ * [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) - Aaron Hertzmann (Adobe Research)
+ * [How to Write a Paper for SIGGRAPH](http://www.computer.org/csdl/mags/cg/1987/12/mcg1987120062.pdf) - Jim Blinn
+ * [How to Get Your SIGGRAPH Paper Rejected](http://www.siggraph.org/sites/default/files/kajiya.pdf) - Jim Kajiya (Microsoft Research)
+ * [How to write a SIGGRAPH paper](www.liyiwei.org/courses/how-siga11/liyiwei.pptx) - Li-Yi Wei (The University of Hong Kong)
+ * [How to Write a Great Paper](http://www-hagen.informatik.uni-kl.de/~bertram/talks/getpublished.pdf) - Martin Martin Hering Hering--Bertram (Hochschule Bremen University of Applied Sciences)
+ * [How to have a paper get into SIGGRAPH?](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) - Takeo Igarashi (The University of Tokyo)
+ * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) - Marc H. Raibert (Boston Dynamics, Inc.)
+ * [How to Write a Computer Vision Paper](http://web.engr.illinois.edu/~dhoiem/presentations/How%20to%20Write%20a%20Computer%20Vison%20Paper.ppt) - Derek Hoiem (UIUC)
+
+
+#### Presentation
+ * [Giving a Research Talk](http://people.csail.mit.edu/fredo/TalkAdvice.pdf) - Frédo Durand (MIT)
+ * [How to give a good talk](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf) - David Fleet (University of Toronto) and Aaron Hertzmann (Adobe Research)
+ * [Designing conference posters](http://colinpurrington.com/tips/poster-design) - Colin Purrington
+
+#### Research
+ * [How to do research](http://people.csail.mit.edu/billf/www/papers/doresearch.pdf) - William T. Freeman (MIT)
+ * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Richard Hamming
+ * [Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information](http://yima.csl.illinois.edu/psfile/bogus.pdf) - Yi Ma (UIUC)
+ * [Seven Warning Signs of Bogus Science](http://www.quackwatch.com/01QuackeryRelatedTopics/signs.html) - Robert L. Park
+ * [Five Principles for Choosing Research Problems in Computer Graphics](https://www.youtube.com/watch?v=v2Qaf8t8I6c) - Thomas Funkhouser (Cornell University)
+ * [How To Do Research In the MIT AI Lab](http://www.cs.indiana.edu/mit.research.how.to.html) - David Chapman (MIT)
+
+#### Time Management
+ * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
 
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
