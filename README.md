@@ -86,7 +86,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 ## Papers
 
-#### Papers on the web
+#### Conference papers on the web
  * [CVPapers](http://www.cvpapers.com/) - Computer vision papers on the web
  * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
  * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
@@ -166,18 +166,18 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
- * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html)
+ * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (West Virginia University)
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html) 
 
 #### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/)
 * [SimpleCV](http://simplecv.org/)
-* [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [VLFeat](http://www.vlfeat.org/)
+* [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 
 #### Multiple-view Computer Vision
-* [http://www.robots.ox.ac.uk/~vgg/hzbook/code/](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
+* [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
 * [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://www.csse.uwa.edu.au/~pk/Research/MatlabFns/index.html)
 * [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
 * [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
@@ -191,6 +191,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
+* [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/) 
+  * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
 * [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
 * [SURF](http://www.vision.ee.ethz.ch/~surf/)
 * [FREAK](http://www.ivpe.com/freak.htm)
