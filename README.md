@@ -301,6 +301,17 @@ Blind deconvolution
  
 #### Nearest Neighbor Search
 
+###### General purpose nearest neighbor search
+ * [ANN: A Library for Approximate Nearest Neighbor Searching](http://www.cs.umd.edu/~mount/ANN/)
+ * [FLANN - Fast Library for Approximate Nearest Neighbors](http://www.cs.ubc.ca/research/flann/)
+ * [Fast k nearest neighbor search using GPU](http://vincentfpgarcia.github.io/kNN-CUDA/)
+
+###### Nearest Neighbor Field Estimation
+ * [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
+ * [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
+ * [Coherency Sensitive Hashing](http://www.eng.tau.ac.il/~simonk/CSH/)
+ * [PMBP: PatchMatch Belief Propagation](https://github.com/fbesse/pmbp)
+
 #### Visual Tracking
 * [Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
 * [Visual Tracking Challenge](http://www.votchallenge.net/)
