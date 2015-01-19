@@ -9,7 +9,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Books](#books)
  - [Courses](#courses)
  - [Papers](#papers)
- - [Softwares](#softwares)
+ - [Software](#softwares)
  - [Datasets](#datasets)
  - [Tutorials and Talks](#tutorial-and-talk)
  - [Resources for students](#resources-for-students)
@@ -150,7 +150,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
  * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (NYU/Facebook Research)
 
-## Softwares
+## Software
 
 #### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
