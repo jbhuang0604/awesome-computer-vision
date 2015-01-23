@@ -110,6 +110,14 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
  * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (Australian National University)
 
+#### Recent Conference Talks
+- [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
+- [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
+- [ICCV 2013](http://techtalks.tv/iccv2013/) - Dec 2013
+- [CVPR 2013](http://techtalks.tv/cvpr2013/) - Jun 2013
+- [ECCV 2012](http://videolectures.net/eccv2012_firenze/) - Oct 2012
+- [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
+
 #### 3D Computer Vision
  * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
  * [Reconstructing the World from Photos on the Internet](https://www.youtube.com/watch?v=04Kgg3QEXFI) - Steve Seitz (University of Washington) 2013
