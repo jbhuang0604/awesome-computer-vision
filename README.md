@@ -109,6 +109,15 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
  * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
  * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (Australian National University)
+ - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
+
+#### Recent Conference Talks
+- [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
+- [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
+- [ICCV 2013](http://techtalks.tv/iccv2013/) - Dec 2013
+- [CVPR 2013](http://techtalks.tv/cvpr2013/) - Jun 2013
+- [ECCV 2012](http://videolectures.net/eccv2012_firenze/) - Oct 2012
+- [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
 
 #### 3D Computer Vision
  * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
@@ -163,6 +172,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
  * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (NYU/Facebook Research)
  * [High-dimensional learning with deep network contractions](http://videolectures.net/sahd2014_mallat_dimensional_learning/) - Stéphane Mallat (Ecole Normale Superieure)
+ - [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
 
 ## Software
 
