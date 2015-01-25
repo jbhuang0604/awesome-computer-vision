@@ -186,6 +186,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/)
 * [SimpleCV](http://simplecv.org/)
+* [Open source Python module for computer vision](https://github.com/jesolem/PCV)
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
