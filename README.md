@@ -173,6 +173,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (NYU/Facebook Research)
  * [High-dimensional learning with deep network contractions](http://videolectures.net/sahd2014_mallat_dimensional_learning/) - Stéphane Mallat (Ecole Normale Superieure)
  - [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
+ - [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
 
 ## Software
 
