@@ -380,6 +380,14 @@ Non-uniform Deblurring
 * [Visual Tracking Challenge](http://www.votchallenge.net/)
 * [Kanade-Lucas-Tomasi Feature Tracker](http://www.ces.clemson.edu/~stb/klt/)
 * [Online-boosting Tracking](http://www.vision.ee.ethz.ch/boostingTrackers/)
+* [Multiple Experts using Entropy Minimization](http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html)
+* [Kernelized Correlation Filters](http://home.isr.uc.pt/~henriques/circulant/)
+* [TGPR](http://www.dabi.temple.edu/~hbling/code/TGPR.htm)
+* [Extended Lucas-Kanade Tracking](http://www.eng.tau.ac.il/~oron/ELK/ELK.html)
+* [Spatio-Temporal Context Learning](http://www4.comp.polyu.edu.hk/~cslzhang/STC/STC.htm)
+* [Locality Sensitive Histograms](http://www.shengfenghe.com/visual-tracking-via-locality-sensitive-histograms.html)
+* [Structure Preserving Object Tracker](http://visionlab.tudelft.nl/spot)
+* [Adaptive Color Attributes](http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html)
 
 #### Saliency Detection
 
