@@ -325,6 +325,7 @@ Non-uniform Deblurring
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
  * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/)
+ * [SEEDS Revised](https://github.com/davidstutz/seeds-revised)
  
 #### Interactive Image Segmentation
  * [SEEDS](http://www.mvdblive.org/seeds/)
