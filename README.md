@@ -323,7 +323,8 @@ Non-uniform Deblurring
  * [QuickShift](http://www.vlfeat.org/overview/quickshift.html)
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
-
+ * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/)
+ 
 #### Interactive Image Segmentation
  * [SEEDS](http://www.mvdblive.org/seeds/)
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
