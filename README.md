@@ -346,6 +346,7 @@ Non-uniform Deblurring
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
  * [openSLAM](https://www.openslam.org/)
  * [RatSLAM](https://code.google.com/p/ratslam/)
+ * [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
