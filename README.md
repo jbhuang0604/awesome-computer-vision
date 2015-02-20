@@ -81,6 +81,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (UC Berkeley)
  * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (University of Cambridge) 
  * [Methods for Applied Statistics: Unsupervised Learning](http://web.stanford.edu/~lmackey/stats306b/) - Lester Mackey (Stanford)
+ * [Machine Learning](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html) - Andrew Zisserman (University of Oxford)
  
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
