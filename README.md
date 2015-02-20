@@ -40,6 +40,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Gaussian processes for machine learning] (http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen and Christopher K. I. Williams 2005
 * [Learning From Data](https://work.caltech.edu/telecourse.html)- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 2014
+* [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - David Barber, Cambridge University Press, 2012
 
 #### Fundamentals
  * [Linear Algebra and Its Applications](http://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/ref=sr_1_4?ie=UTF8&qid=1421433773&sr=8-4&keywords=Linear+Algebra+and+Its+Applications) - Gilbert Strang 1995
@@ -79,7 +80,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Statistical Learning](http://www.stat.rice.edu/~gallen/stat640.html) - Genevera Allen (Rice University)
  * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (UC Berkeley)
  * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (University of Cambridge) 
-
+ * [Methods for Applied Statistics: Unsupervised Learning](http://web.stanford.edu/~lmackey/stats306b/) - Lester Mackey (Stanford)
+ 
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
@@ -322,7 +324,9 @@ Non-uniform Deblurring
  * [QuickShift](http://www.vlfeat.org/overview/quickshift.html)
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
-
+ * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/)
+ * [SEEDS Revised](https://github.com/davidstutz/seeds-revised)
+ 
 #### Interactive Image Segmentation
  * [SEEDS](http://www.mvdblive.org/seeds/)
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
@@ -439,6 +443,7 @@ Non-uniform Deblurring
 #### Intrinsic Images
  * [Ground-truth dataset and baseline evaluations for intrinsic image algorithms](http://www.mit.edu/~kimo/publications/intrinsic/)
  * [Intrinsic Images in the Wild](http://opensurfaces.cs.cornell.edu/intrinsic/)
+ * [Intrinsic Image Evaluation on Synthetic Complex Scenes](http://www.cic.uab.cat/Datasets/synthetic_intrinsic_image_dataset/)
  
 #### Material Recognition
  * [OpenSurface](http://opensurfaces.cs.cornell.edu/)
