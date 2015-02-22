@@ -212,6 +212,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [VLFeat](http://www.vlfeat.org/)
 * [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/) 
   * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
+* [SIFT++](http://www.robots.ox.ac.uk/~vedaldi/code/siftpp.html)
 * [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
   * Stefan Leutenegger, Margarita Chli and Roland Siegwart, "BRISK: Binary Robust Invariant Scalable Keypoints", ICCV 2011
 * [SURF](http://www.vision.ee.ethz.ch/~surf/)
