@@ -28,8 +28,11 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) - Linda G. Shapiro 2001
 * [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer 1999
 * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman and Bastian Leibe 2011
+
+#### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
 * [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) - Adrian Rosebrock
+* [OpenCV Essentials](http://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#) - Oscar Deniz Suarez, Mª del Milagro Fernandez Carrobles, Noelia Vallez Enano, Gloria Bueno Garcia, Ismael Serrano Gracia
 
 #### Machine Learning
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop 2007
