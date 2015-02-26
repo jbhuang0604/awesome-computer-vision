@@ -58,7 +58,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html) - Kalanit Grill-Spector and Fei-Fei Li (Stanford University)
  * [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/) - Fei-Fei Li (Stanford University)
  * [Advances in Computer Vision](http://6.869.csail.mit.edu/fall14/) - Antonio Torralba and Bill Freeman (MIT)
-
+ * [Computer Vision](http://www.vision.rwth-aachen.de/teaching/lecture_computer_vision/winter-13-14) - Bastian Leibe (RWTH Aachen University)
+ * [Computer Vision 2](http://www.vision.rwth-aachen.de/teaching/lecture_computer_vision_2/summer-14) - Bastian Leibe (RWTH Aachen University)
+ 
 #### Computational Photography
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
