@@ -61,7 +61,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html) - Kalanit Grill-Spector and Fei-Fei Li (Stanford University)
  * [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/) - Fei-Fei Li (Stanford University)
  * [Advances in Computer Vision](http://6.869.csail.mit.edu/fall14/) - Antonio Torralba and Bill Freeman (MIT)
-
+ * [Computer Vision](http://www.vision.rwth-aachen.de/teaching/lecture_computer_vision/winter-13-14) - Bastian Leibe (RWTH Aachen University)
+ * [Computer Vision 2](http://www.vision.rwth-aachen.de/teaching/lecture_computer_vision_2/summer-14) - Bastian Leibe (RWTH Aachen University)
+ 
 #### Computational Photography
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
@@ -216,6 +218,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [VLFeat](http://www.vlfeat.org/)
 * [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/) 
   * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
+* [SIFT++](http://www.robots.ox.ac.uk/~vedaldi/code/siftpp.html)
 * [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
   * Stefan Leutenegger, Margarita Chli and Roland Siegwart, "BRISK: Binary Robust Invariant Scalable Keypoints", ICCV 2011
 * [SURF](http://www.vision.ee.ethz.ch/~surf/)
@@ -317,6 +320,11 @@ Non-uniform Deblurring
  * [Adaptive Manifold](http://inf.ufrgs.br/~eslgastal/AdaptiveManifolds/)
  * [Guided image filtering](http://research.microsoft.com/en-us/um/people/kahe/eccv10/)
 
+#### Intrinsic Images
+
+* [Recovering Intrinsic Images with a global Sparsity Prior on Reflectance](http://people.tuebingen.mpg.de/mkiefel/projects/intrinsic/)
+* [Intrinsic Images by Clustering](http://giga.cps.unizar.es/~elenag/projects/EGSR2012_intrinsic/)
+ 
 #### Contour Detection and Image Segmentation
  * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
  * [Graph-based Segmentation](http://cs.brown.edu/~pff/segment/)
@@ -329,10 +337,10 @@ Non-uniform Deblurring
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
  * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/)
+ * [SEEDS](http://www.mvdblive.org/seeds/)
  * [SEEDS Revised](https://github.com/davidstutz/seeds-revised)
  
 #### Interactive Image Segmentation
- * [SEEDS](http://www.mvdblive.org/seeds/)
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
  * [Geodesic Segmentation](http://www.tc.umn.edu/~baixx015/)
  * [Lazy Snapping](http://research.microsoft.com/apps/pubs/default.aspx?id=69040)
@@ -344,7 +352,7 @@ Non-uniform Deblurring
  * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
  * [Efficient hierarchical graph-based video segmentation](http://www.cc.gatech.edu/cpl/projects/videosegmentation/)
  * [Object segmentation in video](http://lmb.informatik.uni-freiburg.de/Publications/2011/OB11/)
- * [ Streaming hierarchical video segmentation](http://www.cse.buffalo.edu/~jcorso/r/supervoxels/)
+ * [Streaming hierarchical video segmentation](http://www.cse.buffalo.edu/~jcorso/r/supervoxels/)
 
 #### Camera calibration
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
