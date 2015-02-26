@@ -316,6 +316,11 @@ Non-uniform Deblurring
  * [Adaptive Manifold](http://inf.ufrgs.br/~eslgastal/AdaptiveManifolds/)
  * [Guided image filtering](http://research.microsoft.com/en-us/um/people/kahe/eccv10/)
 
+#### Intrinsic Images
+
+* [Recovering Intrinsic Images with a global Sparsity Prior on Reflectance](http://people.tuebingen.mpg.de/mkiefel/projects/intrinsic/)
+* [Intrinsic Images by Clustering](http://giga.cps.unizar.es/~elenag/projects/EGSR2012_intrinsic/)
+ 
 #### Contour Detection and Image Segmentation
  * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
  * [Graph-based Segmentation](http://cs.brown.edu/~pff/segment/)
