@@ -328,10 +328,10 @@ Non-uniform Deblurring
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
  * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/)
+ * [SEEDS](http://www.mvdblive.org/seeds/)
  * [SEEDS Revised](https://github.com/davidstutz/seeds-revised)
  
 #### Interactive Image Segmentation
- * [SEEDS](http://www.mvdblive.org/seeds/)
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
  * [Geodesic Segmentation](http://www.tc.umn.edu/~baixx015/)
  * [Lazy Snapping](http://research.microsoft.com/apps/pubs/default.aspx?id=69040)
@@ -343,7 +343,7 @@ Non-uniform Deblurring
  * [Video Segmentation with Superpixels](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/image-and-video-segmentation/video-segmentation-with-superpixels/)
  * [Efficient hierarchical graph-based video segmentation](http://www.cc.gatech.edu/cpl/projects/videosegmentation/)
  * [Object segmentation in video](http://lmb.informatik.uni-freiburg.de/Publications/2011/OB11/)
- * [ Streaming hierarchical video segmentation](http://www.cse.buffalo.edu/~jcorso/r/supervoxels/)
+ * [Streaming hierarchical video segmentation](http://www.cse.buffalo.edu/~jcorso/r/supervoxels/)
 
 #### Camera calibration
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
