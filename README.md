@@ -223,6 +223,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
   * A. Alahi, R. Ortiz, and P. Vandergheynst, "FREAK: Fast Retina Keypoint", CVPR 2012
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
   * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
+* [Local Binary Patterns](https://github.com/nourani/LBP)
 
 #### Low-level Vision
 
