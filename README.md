@@ -258,6 +258,7 @@ BM3D, KSVD,
  * [Deformable Patches](https://sites.google.com/site/yuzhushome/single-image-super-resolution-using-deformable-patches)
  * [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
  * [A+: Adjusted Anchored Neighborhood Regression](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/index.html)
+ * [Transformed Self-Exemplars](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
 
 ###### Image Deblurring
 
