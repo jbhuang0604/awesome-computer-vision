@@ -435,6 +435,10 @@ Non-uniform Deblurring
 #### Optimization
  * [Ceres Solver](http://ceres-solver.org/) - Nonlinear optimization
 
+#### Machine Learning
+ * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+ * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
+
 ## Datasets
 
 #### External Dataset Link Collection
