@@ -144,6 +144,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar (UC Santa Cruz/Google) 2010
  * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake (Microsoft Research) 2007
  * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (MIT) 2012
+ * [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
 
 #### Learning and Vision
  * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (MIT) 2011
