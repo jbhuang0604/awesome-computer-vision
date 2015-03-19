@@ -240,6 +240,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
  * [Coarse2Fine Optical Flow](http://people.csail.mit.edu/celiu/OpticalFlow/) - Ce Liu (MIT)
  * [Secrets of Optical Flow Estimation and Their Principles](http://cs.brown.edu/~dqsun/code/cvpr10_flow_code.zip)
+ * [C++/MatLab Optical Flow by C. Liu (based on Brox et al. and Bruhn et al.)](http://people.csail.mit.edu/celiu/OpticalFlow/)
+ * [Parallel Robust Optical Flow by Sánchez Pérez et al.](http://www.ctim.es/research_works/parallel_robust_optical_flow/)
 
 ###### Image Denoising
 BM3D, KSVD, 
