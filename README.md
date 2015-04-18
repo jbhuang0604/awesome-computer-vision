@@ -396,6 +396,10 @@ Non-uniform Deblurring
  * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
  * [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o)
 
+###### Loop Clousre:
+ * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/modules/contrib/doc/openfabmap.html)
+ * [DBoW2: binary bag-of-words loop detection system](http://webdiis.unizar.es/~dorian/index.php?p=32)
+
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
  * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) 
