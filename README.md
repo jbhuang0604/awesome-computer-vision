@@ -381,10 +381,24 @@ Non-uniform Deblurring
  * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
  
 #### Simultaneous localization and mapping
- * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
+
+###### SLAM community:
  * [openSLAM](https://www.openslam.org/)
+ * [Kitti Odometry: benchmark for outdoor visual odometry (codes may be available)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+
+###### Tracking/Odometry:
+ * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/) 
+ * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
+ * [KFusion: Implementation of KinectFusion](https://github.com/GerhardR/kfusion) 
+ * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
+
+###### Graph Optimization:
+ * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
+ * [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o)
+
+###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
- * [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
+ * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) 
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
