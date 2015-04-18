@@ -183,8 +183,12 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
  * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (NYU/Facebook Research)
  * [High-dimensional learning with deep network contractions](http://videolectures.net/sahd2014_mallat_dimensional_learning/) - Stéphane Mallat (Ecole Normale Superieure)
- - [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
- - [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
+ * [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
+ * [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
+ * [Machine Learning Summer School](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ) - Reykjavik, Iceland 2014
+	* [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (Universtiy of Montreal) 
+	* [Deep Learning Session 2](https://www.youtube.com/watch?v=Fl-W7_z3w3o) - Yoshua Bengio (University of Montreal)
+	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
 
 ## Software
 
