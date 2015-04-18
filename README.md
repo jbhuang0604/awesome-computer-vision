@@ -183,8 +183,12 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun (NYU/Facebook Research) 2014
  * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) - Rob Fergus (NYU/Facebook Research)
  * [High-dimensional learning with deep network contractions](http://videolectures.net/sahd2014_mallat_dimensional_learning/) - Stéphane Mallat (Ecole Normale Superieure)
- - [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
- - [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
+ * [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
+ * [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
+ * [Machine Learning Summer School](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ) - Reykjavik, Iceland 2014
+	* [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (Universtiy of Montreal) 
+	* [Deep Learning Session 2](https://www.youtube.com/watch?v=Fl-W7_z3w3o) - Yoshua Bengio (University of Montreal)
+	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
 
 ## Software
 
@@ -377,10 +381,28 @@ Non-uniform Deblurring
  * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
  
 #### Simultaneous localization and mapping
- * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
+
+###### SLAM community:
  * [openSLAM](https://www.openslam.org/)
+ * [Kitti Odometry: benchmark for outdoor visual odometry (codes may be available)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+
+###### Tracking/Odometry:
+ * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/) 
+ * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
+ * [KFusion: Implementation of KinectFusion](https://github.com/GerhardR/kfusion) 
+ * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
+
+###### Graph Optimization:
+ * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
+ * [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o)
+
+###### Loop Clousre:
+ * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/modules/contrib/doc/openfabmap.html)
+ * [DBoW2: binary bag-of-words loop detection system](http://webdiis.unizar.es/~dorian/index.php?p=32)
+
+###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
- * [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
+ * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) 
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
