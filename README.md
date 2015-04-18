@@ -460,7 +460,9 @@ Non-uniform Deblurring
  * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) - 
 
 #### Optimization
- * [Ceres Solver](http://ceres-solver.org/) - Nonlinear optimization
+ * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
+ * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimziation and inference solver
+ * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Machine Learning
  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
