@@ -392,6 +392,11 @@ Non-uniform Deblurring
  * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
  * [KFusion: Implementation of KinectFusion](https://github.com/GerhardR/kfusion) 
  * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
+ * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing)
+ * [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
+ * [SVO: Semi-direct visual odometry](https://github.com/uzh-rpg/rpg_svo)
+ * [DVO: dense visual odometry](https://github.com/tum-vision/dvo_slam)
+ * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
 ###### Graph Optimization:
  * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
