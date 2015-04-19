@@ -211,12 +211,13 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
 * [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://www.csse.uwa.edu.au/~pk/Research/MatlabFns/index.html)
 * [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
-* [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
-* [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
+* [MinimalSolvers](http://cmp.felk.cvut.cz/minimal/index.php) - Minimal problems solver
 * [Multi-View Environment](http://www.gris.informatik.tu-darmstadt.de/projects/multiview-environment/)
 * [Visual SFM](http://ccwu.me/vsfm/)
 * [Bundler SFM](http://www.cs.cornell.edu/~snavely/bundler/)
-* [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/)
+* [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/) - Multiple View Geometry; Structure from Motion library & softwares
+* [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
+* [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [ Large-Scale Texturing of 3D Reconstructions](http://www.gris.informatik.tu-darmstadt.de/projects/mvs-texturing/)
 
@@ -396,13 +397,14 @@ Non-uniform Deblurring
  * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
  * [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o)
 
-###### Loop Clousre:
+###### Loop Closure:
  * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/modules/contrib/doc/openfabmap.html)
  * [DBoW2: binary bag-of-words loop detection system](http://webdiis.unizar.es/~dorian/index.php?p=32)
 
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
  * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) 
+ * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
@@ -461,8 +463,10 @@ Non-uniform Deblurring
 
 #### Optimization
  * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
+ * [NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)- Nonlinear least-square problem and unconstrained optimization solver
  * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimziation and inference solver
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
+
 
 #### Machine Learning
  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -494,7 +498,7 @@ Non-uniform Deblurring
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
 
-###### Image Super-resolution
+###### Image Super-resolutions
  * [Single-Image Super-Resolution: A Benchmark](https://eng.ucmerced.edu/people/cyang35/ECCV14/ECCV14.html)
 
 #### Intrinsic Images
@@ -517,7 +521,7 @@ Non-uniform Deblurring
  * [VOT Challenge](http://www.votchallenge.net/)
  * [Princeton Tracking Benchmark](http://tracking.cs.princeton.edu/)
  
-#### Visual Survelliance
+#### Visual Surveillance
  * [VIRAT](http://www.viratdata.org/)
  * [CAM2](https://cam2.ecn.purdue.edu/)
  
