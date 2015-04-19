@@ -471,7 +471,7 @@ Non-uniform Deblurring
 #### Optimization
  * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
  * [NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)- Nonlinear least-square problem and unconstrained optimization solver
- * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimziation and inference solver
+ * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimization and inference solver
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 
