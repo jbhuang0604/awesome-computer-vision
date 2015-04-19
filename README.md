@@ -206,6 +206,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
+* [PCL: Point Cloud Library](http://pointclouds.org/)
+* [ImageUtilities](https://gitorious.org/imageutilities)
 
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
