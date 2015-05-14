@@ -113,7 +113,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 ## Tutorials and talks
 
 #### Computer Vision
-
+ * [Computer Vision Talks](http://www.computervisiontalks.com/) - Lectures, keynotes, panel discussions on computer vision
  * [The Three R's of Computer Vision](https://www.youtube.com/watch?v=Mqg6eorYRIQ) - Jitendra Malik (UC Berkeley) 2013
  * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
  * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
