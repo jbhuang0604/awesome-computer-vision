@@ -353,6 +353,7 @@ Non-uniform Deblurring
  * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
  * [Graph-based Segmentation](http://cs.brown.edu/~pff/segment/)
  * [Normalized Cut](http://www.cis.upenn.edu/~jshi/software/)
+ * [Grab Cut](http://grabcut.weebly.com/background--algorithm.html)
  * [Contour Detection and Image Segmentation](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
  * [Structured Edge Detection](http://research.microsoft.com/en-us/downloads/389109f6-b4e8-404c-84bf-239f7cbf4e3d/)
  * [Pointwise Mutual Information](http://web.mit.edu/phillipi/pmi-boundaries/)
@@ -362,7 +363,9 @@ Non-uniform Deblurring
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
  * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/)
  * [SEEDS](http://www.mvdblive.org/seeds/)
- * [SEEDS Revised](https://github.com/davidstutz/seeds-revised)
+ * [SEEDS Revised](https://github.com/davidstutz/seeds-revised) 
+ * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
+ * [Fast Edge Detection Using Structured Forests](https://github.com/pdollar/edges)
  
 #### Interactive Image Segmentation
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
@@ -426,6 +429,8 @@ Non-uniform Deblurring
  * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
  * [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn)
  * [SPP-Net](https://github.com/ShaoqingRen/SPP_net)
+ * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
+ * [Edge Boxes](https://github.com/pdollar/edges)
 
 #### Nearest Neighbor Search
 
