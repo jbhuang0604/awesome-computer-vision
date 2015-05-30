@@ -15,6 +15,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Datasets](#datasets)
  - [Tutorials and Talks](#tutorials-and-talks)
  - [Resources for students](#resources-for-students)
+ - [Blogs](#blogs)
  - [Links](#links)
  - [Songs](#songs)
 
@@ -639,6 +640,11 @@ Non-uniform Deblurring
 #### Time Management
  * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
  
+## Blogs
+ * [Learn OpenCV](http://www.learnopencv.com/) - Satya Mallick
+ * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) - Tomasz Malisiewicz
+ * [Computer vision for dummies](http://www.visiondummy.com/) - Vincent Spruyt
+ * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
 
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
