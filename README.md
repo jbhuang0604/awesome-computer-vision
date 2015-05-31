@@ -52,6 +52,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 ## Courses
 
 #### Computer Vision
+ * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
  * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
  * [Computer Vision](http://courses.cs.washington.edu/courses/cse455/12wi/) - Steve Seitz (University of Washington)
  * [Visual Recognition](http://www.cs.utexas.edu/~cv-fall2012/schedule.html) - Kristen Grauman (UT Austin)
