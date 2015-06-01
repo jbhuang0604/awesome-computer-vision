@@ -603,7 +603,7 @@ Non-uniform Deblurring
  * [Advice for Graduate Students](http://www.dgp.toronto.edu/~hertzman/advice/) - Aaron Hertzmann (Adobe Research)
  * [Graduate Skills Seminars](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/) - Yashar Ganjali, Aaron Hertzmann (University of Toronto)
  * [Research Skills](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm) - Simon Peyton Jones (Microsoft Research)
- 
+ * [Resource collection](http://web.engr.illinois.edu/~taoxie/advice.htm) - Tao Xie (UIUC) and Yuan Xie (UCSB)
 
 #### Writing
  * [Write Good Papers](http://people.csail.mit.edu/fredo/FredoGoodWriting.pdf) - Frédo Durand (MIT)
@@ -620,6 +620,7 @@ Non-uniform Deblurring
  * [How to have a paper get into SIGGRAPH?](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) - Takeo Igarashi (The University of Tokyo)
  * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) - Marc H. Raibert (Boston Dynamics, Inc.)
  * [How to Write a Computer Vision Paper](http://web.engr.illinois.edu/~dhoiem/presentations/How%20to%20Write%20a%20Computer%20Vison%20Paper.ppt) - Derek Hoiem (UIUC)
+ * [Common mistakes in technical writing](http://www.cs.dartmouth.edu/~wjarosz/writing.html) - Wojciech Jarosz (Dartmouth College)
 
 
 #### Presentation
@@ -657,4 +658,4 @@ Non-uniform Deblurring
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
-% [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
+* [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
