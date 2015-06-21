@@ -481,6 +481,8 @@ Non-uniform Deblurring
  * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimization and inference solver
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
+#### Deep Learning
+ * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 #### Machine Learning
  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
