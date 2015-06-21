@@ -523,6 +523,7 @@ Non-uniform Deblurring
 #### Material Recognition
  * [OpenSurface](http://opensurfaces.cs.cornell.edu/)
  * [Flickr Material Database](http://people.csail.mit.edu/celiu/CVPR2010/)
+ * [Materials in Context Dataset](http://opensurfaces.cs.cornell.edu/publications/minc/)
 
 #### Multi-view Reconsturction
 * [Multi-View Stereo Reconstruction](http://vision.middlebury.edu/mview/)
@@ -579,6 +580,7 @@ Non-uniform Deblurring
 
 ###### Pedestrian Detection
  * [Caltech Pedestrian Detection Benchmark](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
+ * [ETHZ Pedestrian Detection](https://data.vision.ee.ethz.ch/cvl/aess/dataset/)
 
 #### Action Recognition
 
@@ -586,15 +588,20 @@ Non-uniform Deblurring
 
 ###### Video-based
  * [HOLLYWOOD2 Dataset](http://www.di.ens.fr/~laptev/actions/hollywood2/)
- * 
+ * [UCF Sports Action Data Set](http://crcv.ucf.edu/data/UCF_Sports_Action.php)
  
 ###### Image Deblurring
  * [Sun dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
+ * [Levin dataset](http://www.wisdom.weizmann.ac.il/~levina/papers/LevinEtalCVPR09Data.rar)
 
 #### Image Captioning
  * [Flickr 8K](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
  * [Flickr 30K](http://shannon.cs.illinois.edu/DenotationGraph/)
  * [Microsoft COCO](http://mscoco.org/)
+
+#### Scene Understanding
+ # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
+ # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
 
 ## Resources for students
 
