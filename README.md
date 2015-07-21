@@ -398,6 +398,7 @@ Non-uniform Deblurring
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/) 
  * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
  * [KFusion: Implementation of KinectFusion](https://github.com/GerhardR/kfusion) 
+ * [kinfu_remake: Lightweight, reworked and optimized version of Kinfu.](https://github.com/Nerei/kinfu_remake)
  * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
  * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing)
  * [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
