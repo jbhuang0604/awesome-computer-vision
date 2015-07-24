@@ -657,6 +657,7 @@ Non-uniform Deblurring
  * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) - Tomasz Malisiewicz
  * [Computer vision for dummies](http://www.visiondummy.com/) - Vincent Spruyt
  * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
+ * [AI Shack](http://aishack.in/) - Utkarsh Sinha
 
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
