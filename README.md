@@ -29,6 +29,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) - Linda G. Shapiro 2001
 * [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer 1999
 * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman and Bastian Leibe 2011
+* [Computer Vision for Visual Effects](http://cvfxbook.com/) - Richard J. Radke, 2012
 
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
@@ -78,6 +79,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computational Photography](http://cs.nyu.edu/~fergus/teaching/comp_photo/index.html) - Rob Fergus (NYU)
 * [Introduction to Visual Computing](http://www.cs.toronto.edu/~kyros/courses/320/) - Kyros Kutulakos (University of Toronto)
 * [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (University of Toronto)
+* [Computer Vision for Visual Effects](http://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
+* [Introduction to Image Processing](http://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
 
 #### Machine Learning and Statistical Learning
  * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford University)
@@ -148,6 +151,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake (Microsoft Research) 2007
  * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (MIT) 2012
  * [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
+ * [Overview of Computer Vision and Visual Effects](https://www.youtube.com/watch?v=rE-hVtytT-I) - Rich Radke (Rensselaer Polytechnic Institute) 2014
 
 #### Learning and Vision
  * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (MIT) 2011
