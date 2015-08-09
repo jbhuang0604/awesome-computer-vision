@@ -210,6 +210,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/)
+* [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
 * [Open source Python module for computer vision](https://github.com/jesolem/PCV)
 * [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv)
@@ -499,6 +500,7 @@ Non-uniform Deblurring
 #### Machine Learning
  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
+ * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 ## Datasets
 
