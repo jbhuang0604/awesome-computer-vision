@@ -132,8 +132,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 - [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
 - [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
 - [ICCV 2013](http://techtalks.tv/iccv2013/) - Dec 2013
+- [ICML 2013](http://techtalks.tv/icml/2013/) - Jul 2013
 - [CVPR 2013](http://techtalks.tv/cvpr2013/) - Jun 2013
 - [ECCV 2012](http://videolectures.net/eccv2012_firenze/) - Oct 2012
+- [ICML 2012](http://techtalks.tv/icml/2012/orals/) - Jun 2012
 - [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
 
 #### 3D Computer Vision
