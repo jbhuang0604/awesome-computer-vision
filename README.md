@@ -31,6 +31,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) - Stephen E. Palmer 1999
 * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman and Bastian Leibe 2011
 * [Computer Vision for Visual Effects](http://cvfxbook.com/) - Richard J. Radke, 2012
+* [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
 
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
@@ -43,7 +44,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) - Daphne Koller and Nir Friedman 2009
 * [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) - Peter E. Hart, David G. Stork, and Richard O. Duda 2000
 * [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) - Tom M. Mitchell 1997
-* [Gaussian processes for machine learning] (http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen and Christopher K. I. Williams 2005
+* [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen and Christopher K. I. Williams 2005
 * [Learning From Data](https://work.caltech.edu/telecourse.html)- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 2014
 * [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - David Barber, Cambridge University Press, 2012
@@ -131,8 +132,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 - [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
 - [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
 - [ICCV 2013](http://techtalks.tv/iccv2013/) - Dec 2013
+- [ICML 2013](http://techtalks.tv/icml/2013/) - Jul 2013
 - [CVPR 2013](http://techtalks.tv/cvpr2013/) - Jun 2013
 - [ECCV 2012](http://videolectures.net/eccv2012_firenze/) - Oct 2012
+- [ICML 2012](http://techtalks.tv/icml/2012/orals/) - Jun 2012
 - [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
 
 #### 3D Computer Vision
@@ -207,6 +210,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/)
+* [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
 * [Open source Python module for computer vision](https://github.com/jesolem/PCV)
 * [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv)
@@ -244,6 +248,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
   * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
 * [Local Binary Patterns](https://github.com/nourani/LBP)
+
+#### High Dynamic Range Imaging
+* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)
 
 #### Low-level Vision
 
@@ -493,6 +500,7 @@ Non-uniform Deblurring
 #### Machine Learning
  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
+ * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 ## Datasets
 
