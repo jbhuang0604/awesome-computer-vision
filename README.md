@@ -446,7 +446,8 @@ Non-uniform Deblurring
  * [SPP-Net](https://github.com/ShaoqingRen/SPP_net)
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
  * [Edge Boxes](https://github.com/pdollar/edges)
-
+ * [ReInspect](https://github.com/Russell91/ReInspect)
+ 
 #### Nearest Neighbor Search
 
 ###### General purpose nearest neighbor search
@@ -474,6 +475,7 @@ Non-uniform Deblurring
 * [Locality Sensitive Histograms](http://www.shengfenghe.com/visual-tracking-via-locality-sensitive-histograms.html)
 * [Structure Preserving Object Tracker](http://visionlab.tudelft.nl/spot)
 * [Adaptive Color Attributes](http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html)
+ * [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
 
 #### Saliency Detection
 
