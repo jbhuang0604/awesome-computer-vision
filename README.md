@@ -475,7 +475,7 @@ Non-uniform Deblurring
 * [Locality Sensitive Histograms](http://www.shengfenghe.com/visual-tracking-via-locality-sensitive-histograms.html)
 * [Structure Preserving Object Tracker](http://visionlab.tudelft.nl/spot)
 * [Adaptive Color Attributes](http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html)
- * [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
+* [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
 
 #### Saliency Detection
 
