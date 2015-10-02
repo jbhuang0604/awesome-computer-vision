@@ -68,7 +68,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Advances in Computer Vision](http://6.869.csail.mit.edu/fall14/) - Antonio Torralba and Bill Freeman (MIT)
  * [Computer Vision](http://www.vision.rwth-aachen.de/teaching/lecture_computer_vision/winter-13-14) - Bastian Leibe (RWTH Aachen University)
  * [Computer Vision 2](http://www.vision.rwth-aachen.de/teaching/lecture_computer_vision_2/summer-14) - Bastian Leibe (RWTH Aachen University)
- 
+
 #### Computational Photography
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
@@ -91,10 +91,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (MIT)
  * [Statistical Learning](http://www.stat.rice.edu/~gallen/stat640.html) - Genevera Allen (Rice University)
  * [Practical Machine Learning](http://www.cs.berkeley.edu/~jordan/courses/294-fall09/) - Michael Jordan (UC Berkeley)
- * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (University of Cambridge) 
+ * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (University of Cambridge)
  * [Methods for Applied Statistics: Unsupervised Learning](http://web.stanford.edu/~lmackey/stats306b/) - Lester Mackey (Stanford)
  * [Machine Learning](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html) - Andrew Zisserman (University of Oxford)
- 
+
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
@@ -196,7 +196,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
  * [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
  * [Machine Learning Summer School](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ) - Reykjavik, Iceland 2014
-	* [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (Universtiy of Montreal) 
+	* [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (Universtiy of Montreal)
 	* [Deep Learning Session 2](https://www.youtube.com/watch?v=Fl-W7_z3w3o) - Yoshua Bengio (University of Montreal)
 	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
 
@@ -206,7 +206,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (West Virginia University)
- * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html) 
+ * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html)
 
 #### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/)
@@ -236,7 +236,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
-* [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/) 
+* [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/)
   * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
 * [SIFT++](http://www.robots.ox.ac.uk/~vedaldi/code/siftpp.html)
 * [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
@@ -271,7 +271,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Parallel Robust Optical Flow by Sánchez Pérez et al.](http://www.ctim.es/research_works/parallel_robust_optical_flow/)
 
 ###### Image Denoising
-BM3D, KSVD, 
+BM3D, KSVD,
 
 ###### Super-resolution
  * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
@@ -325,17 +325,17 @@ Non-uniform Deblurring
  * [Single Image Deblurring Using Motion Density Functions](http://grail.cs.washington.edu/projects/mdf_deblurring/)
  * [Image Deblurring using Inertial Measurement Sensors](http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/)
  * [Fast Removal of Non-uniform Camera Shake](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/)
-  
- 
+
+
 ###### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
  * [Priority BP](http://lafarren.com/image-completer/)
- * [ImageMelding](http://www.ece.ucsb.edu/~psen/melding) 
+ * [ImageMelding](http://www.ece.ucsb.edu/~psen/melding)
  * [PlanarStructureCompletion](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
 ###### Image Retargeting
- * [RetargetMe](http://people.csail.mit.edu/mrub/retargetme/) 
- 
+ * [RetargetMe](http://people.csail.mit.edu/mrub/retargetme/)
+
 ###### Alpha Matting
  * [Alpha Matting Evaluation](http://www.alphamatting.com/)
  * [Closed-form image matting](http://people.csail.mit.edu/alevin/matting.tar.gz)
@@ -362,7 +362,7 @@ Non-uniform Deblurring
 
 * [Recovering Intrinsic Images with a global Sparsity Prior on Reflectance](http://people.tuebingen.mpg.de/mkiefel/projects/intrinsic/)
 * [Intrinsic Images by Clustering](http://giga.cps.unizar.es/~elenag/projects/EGSR2012_intrinsic/)
- 
+
 #### Contour Detection and Image Segmentation
  * [Mean Shift Segmentation](http://coewww.rutgers.edu/riul/research/code/EDISON/)
  * [Graph-based Segmentation](http://cs.brown.edu/~pff/segment/)
@@ -377,10 +377,10 @@ Non-uniform Deblurring
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
  * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/)
  * [SEEDS](http://www.mvdblive.org/seeds/)
- * [SEEDS Revised](https://github.com/davidstutz/seeds-revised) 
+ * [SEEDS Revised](https://github.com/davidstutz/seeds-revised)
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
  * [Fast Edge Detection Using Structured Forests](https://github.com/pdollar/edges)
- 
+
 #### Interactive Image Segmentation
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
  * [Geodesic Segmentation](http://www.tc.umn.edu/~baixx015/)
@@ -399,7 +399,7 @@ Non-uniform Deblurring
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
  * [Camera calibration With OpenCV](http://docs.opencv.org/trunk/doc/tutorials/calib3d/camera_calibration/camera_calibration.html#)
  * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
- 
+
 #### Simultaneous localization and mapping
 
 ###### SLAM community:
@@ -407,9 +407,9 @@ Non-uniform Deblurring
  * [Kitti Odometry: benchmark for outdoor visual odometry (codes may be available)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 
 ###### Tracking/Odometry:
- * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/) 
+ * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
  * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
- * [KFusion: Implementation of KinectFusion](https://github.com/GerhardR/kfusion) 
+ * [KFusion: Implementation of KinectFusion](https://github.com/GerhardR/kfusion)
  * [kinfu_remake: Lightweight, reworked and optimized version of Kinfu.](https://github.com/Nerei/kinfu_remake)
  * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
  * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing)
@@ -428,7 +428,7 @@ Non-uniform Deblurring
 
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
- * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) 
+ * [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
  * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)
 
 #### Single-view Spatial Understanding
@@ -486,7 +486,7 @@ Non-uniform Deblurring
 #### Human-in-the-loop systems
 
 #### Image Captioning
- * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) - 
+ * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) -
 
 #### Optimization
  * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
@@ -535,7 +535,7 @@ Non-uniform Deblurring
  * [Ground-truth dataset and baseline evaluations for intrinsic image algorithms](http://www.mit.edu/~kimo/publications/intrinsic/)
  * [Intrinsic Images in the Wild](http://opensurfaces.cs.cornell.edu/intrinsic/)
  * [Intrinsic Image Evaluation on Synthetic Complex Scenes](http://www.cic.uab.cat/Datasets/synthetic_intrinsic_image_dataset/)
- 
+
 #### Material Recognition
  * [OpenSurface](http://opensurfaces.cs.cornell.edu/)
  * [Flickr Material Database](http://people.csail.mit.edu/celiu/CVPR2010/)
@@ -551,22 +551,22 @@ Non-uniform Deblurring
  * [Visual Tracker Benchmark v1.1](https://sites.google.com/site/benchmarkpami/)
  * [VOT Challenge](http://www.votchallenge.net/)
  * [Princeton Tracking Benchmark](http://tracking.cs.princeton.edu/)
- 
+
 #### Visual Surveillance
  * [VIRAT](http://www.viratdata.org/)
  * [CAM2](https://cam2.ecn.purdue.edu/)
- 
+
 #### Saliency Detection
 
 #### Change detection
  * [ChangeDetection.net](http://changedetection.net/)
- 
+
 #### Visual Recognition
 
 ###### Image Classification
  * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
  * [ImageNet Large Scale Visual Recognition Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
- 
+
 ###### Scene Recognition
  * [SUN Database](http://groups.csail.mit.edu/vision/SUN/)
  * [Place Dataset](http://places.csail.mit.edu/)
@@ -575,7 +575,7 @@ Non-uniform Deblurring
  * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
  * [ImageNet Object Detection Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
  * [Microsoft COCO](http://mscoco.org/)
- 
+
 ###### Semantic labeling
  * [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
  * [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
@@ -605,7 +605,7 @@ Non-uniform Deblurring
 ###### Video-based
  * [HOLLYWOOD2 Dataset](http://www.di.ens.fr/~laptev/actions/hollywood2/)
  * [UCF Sports Action Data Set](http://crcv.ucf.edu/data/UCF_Sports_Action.php)
- 
+
 ###### Image Deblurring
  * [Sun dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
  * [Levin dataset](http://www.wisdom.weizmann.ac.il/~levina/papers/LevinEtalCVPR09Data.rar)
@@ -664,13 +664,14 @@ Non-uniform Deblurring
 
 #### Time Management
  * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) - Randy Pausch (CMU)
- 
+
 ## Blogs
  * [Learn OpenCV](http://www.learnopencv.com/) - Satya Mallick
  * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) - Tomasz Malisiewicz
  * [Computer vision for dummies](http://www.visiondummy.com/) - Vincent Spruyt
  * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
  * [AI Shack](http://aishack.in/) - Utkarsh Sinha
+ * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
 
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
