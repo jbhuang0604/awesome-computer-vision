@@ -477,6 +477,7 @@ Non-uniform Deblurring
 * [Structure Preserving Object Tracker](http://visionlab.tudelft.nl/spot)
 * [Adaptive Color Attributes](http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html)
 * [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
+* [CF2: Hierarchical Convolutional Features for Visual Tracking](https://sites.google.com/site/jbhuang0604/publications/cf2)
 
 #### Saliency Detection
 
