@@ -81,11 +81,11 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computational Photography](http://cs.nyu.edu/~fergus/teaching/comp_photo/index.html) - Rob Fergus (NYU)
 * [Introduction to Visual Computing](http://www.cs.toronto.edu/~kyros/courses/320/) - Kyros Kutulakos (University of Toronto)
 * [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (University of Toronto)
-* [Computer Vision for Visual Effects](http://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
-* [Introduction to Image Processing](http://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
+* [Computer Vision for Visual Effects](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
+* [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
 
 #### Machine Learning and Statistical Learning
- * [Machine Learning](https://www.coursera.org/course/ml) - Andrew Ng (Stanford University)
+ * [Machine Learning](https://www.coursera.org/learn/machine-learning) - Andrew Ng (Stanford University)
  * [Learning from Data](https://work.caltech.edu/telecourse.html) - Yaser S. Abu-Mostafa (Caltech)
  * [Statistical Learning](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Trevor Hastie and Rob Tibshirani (Stanford University)
  * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (MIT)
@@ -163,7 +163,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) - Yair Weiss (The Hebrew University of Jerusalem) 2009
 
 #### Object Recognition
- * [Object Recognition](http://research.microsoft.com/apps/video/?id=231358) - Larry Zitnick (Microsoft Research)
+ * [Object Recognition](http://research.microsoft.com/apps/video/dl.aspx?id=231358) - Larry Zitnick (Microsoft Research)
  * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (Stanford University)
 
 #### Graphical Models
@@ -173,7 +173,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (The Hebrew University of Jerusalem) 2009
 
 #### Machine Learning
- * [A Gentle Tutorial of the EM Algorithm](http://www-ssli.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (UC Berkeley) 1998
+ * [A Gentle Tutorial of the EM Algorithm](https://nikola-rt.ee.washington.edu/people/bulyko/papers/em.pdf) - Jeff A. Bilmes (UC Berkeley) 1998
  * [Introduction To Bayesian Inference](http://videolectures.net/mlss09uk_bishop_ibi/) - Christopher Bishop (Microsoft Research) 2009
  * [Support Vector Machines](http://videolectures.net/mlss06tw_lin_svm/) - Chih-Jen Lin (National Taiwan University) 2006
  * [Bayesian or Frequentist, Which Are You? ](http://videolectures.net/mlss09uk_jordan_bfway/) - Michael I. Jordan (UC Berkeley)
@@ -222,17 +222,17 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
-* [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://www.csse.uwa.edu.au/~pk/Research/MatlabFns/index.html)
+* [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://staffhome.ecm.uwa.edu.au/~00011811/Research/MatlabFns/index.html)
 * [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
-* [MinimalSolvers](http://cmp.felk.cvut.cz/minimal/index.php) - Minimal problems solver
-* [Multi-View Environment](http://www.gris.informatik.tu-darmstadt.de/projects/multiview-environment/)
+* [MinimalSolvers](http://cmp.felk.cvut.cz/mini/) - Minimal problems solver
+* [Multi-View Environment](http://www.gcc.tu-darmstadt.de/home/proj/mve/)
 * [Visual SFM](http://ccwu.me/vsfm/)
 * [Bundler SFM](http://www.cs.cornell.edu/~snavely/bundler/)
 * [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/) - Multiple View Geometry; Structure from Motion library & softwares
 * [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
-* [ Large-Scale Texturing of 3D Reconstructions](http://www.gris.informatik.tu-darmstadt.de/projects/mvs-texturing/)
+* [ Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
@@ -371,11 +371,11 @@ Non-uniform Deblurring
  * [Contour Detection and Image Segmentation](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
  * [Structured Edge Detection](http://research.microsoft.com/en-us/downloads/389109f6-b4e8-404c-84bf-239f7cbf4e3d/)
  * [Pointwise Mutual Information](http://web.mit.edu/phillipi/pmi-boundaries/)
- * [SLIC Super-pixel](http://ivrg.epfl.ch/research/superpixels)
+ * [SLIC Super-pixel](http://ivrl.epfl.ch/research/superpixels)
  * [QuickShift](http://www.vlfeat.org/overview/quickshift.html)
  * [TurboPixels](http://www.cs.toronto.edu/~babalex/research.html)
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
- * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/)
+ * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/research/superpixel-segmentation/)
  * [SEEDS](http://www.mvdblive.org/seeds/)
  * [SEEDS Revised](https://github.com/davidstutz/seeds-revised)
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
@@ -424,7 +424,7 @@ Non-uniform Deblurring
  * [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o)
 
 ###### Loop Closure:
- * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/modules/contrib/doc/openfabmap.html)
+ * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/2.4/modules/contrib/doc/openfabmap.html)
  * [DBoW2: binary bag-of-words loop detection system](http://webdiis.unizar.es/~dorian/index.php?p=32)
 
 ###### Localization & Mapping:
@@ -681,7 +681,7 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning](https://github.com/Ashara12/awesome-deep-learning)
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-maching-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 
