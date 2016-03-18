@@ -556,6 +556,7 @@ Non-uniform Deblurring
  * [Visual Tracker Benchmark v1.1](https://sites.google.com/site/benchmarkpami/)
  * [VOT Challenge](http://www.votchallenge.net/)
  * [Princeton Tracking Benchmark](http://tracking.cs.princeton.edu/)
+ * [Tracking Manipulation Tasks (TMT)](http://webdocs.cs.ualberta.ca/~vis/trackDB/)
 
 #### Visual Surveillance
  * [VIRAT](http://www.viratdata.org/)
