@@ -252,6 +252,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### High Dynamic Range Imaging
 * [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)
 
+#### Semantic Segmentation
+* [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
+
 #### Low-level Vision
 
 ###### Stereo Vision
