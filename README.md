@@ -482,6 +482,7 @@ Non-uniform Deblurring
 * [Multiple Experts using Entropy Minimization](http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html)
 * [TGPR](http://www.dabi.temple.edu/~hbling/code/TGPR.htm)
 * [CF2: Hierarchical Convolutional Features for Visual Tracking](https://sites.google.com/site/jbhuang0604/publications/cf2)
+* [Modular Tracking Framework](http://webdocs.cs.ualberta.ca/~vis/mtf/index.html)
 
 #### Saliency Detection
 
