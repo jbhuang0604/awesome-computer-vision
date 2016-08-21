@@ -32,6 +32,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) - Kristen Grauman and Bastian Leibe 2011
 * [Computer Vision for Visual Effects](http://cvfxbook.com/) - Richard J. Radke, 2012
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
+* [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) - Justin Solomon 2015
 
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
