@@ -233,8 +233,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
-* [ Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
-
+* [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
+* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
+* 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
 * [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/)
