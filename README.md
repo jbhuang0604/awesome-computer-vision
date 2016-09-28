@@ -540,6 +540,10 @@ Non-uniform Deblurring
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
 
+###### Change Detection
+ * [Labeled and Annotated Sequences for Integral Evaluation of SegmenTation Algorithms](http://www.gti.ssr.upm.es/data/LASIESTA)
+ * [ChangeDetection.net](http://www.changedetection.net/)
+
 ###### Image Super-resolutions
  * [Single-Image Super-Resolution: A Benchmark](https://eng.ucmerced.edu/people/cyang35/ECCV14/ECCV14.html)
 
