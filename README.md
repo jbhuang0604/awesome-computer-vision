@@ -95,6 +95,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/) - David MacKay (University of Cambridge)
  * [Methods for Applied Statistics: Unsupervised Learning](http://web.stanford.edu/~lmackey/stats306b/) - Lester Mackey (Stanford)
  * [Machine Learning](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html) - Andrew Zisserman (University of Oxford)
+ * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (Stanford University)
+ * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (Georgia Tech)
 
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
