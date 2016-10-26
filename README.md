@@ -77,7 +77,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computational Photography](http://cs.brown.edu/courses/csci1290/) - James Hays (Brown University)
 * [Digital & Computational Photography](http://stellar.mit.edu/S/course/6/sp12/6.815/) - Fredo Durand (MIT)
 * [Computational Camera and Photography](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/) - Ramesh Raskar (MIT Media Lab)
-* [Computational Photography](https://www.coursera.org/course/compphoto) - Irfan Essa (Georgia Tech)
+* [Computational Photography](https://www.udacity.com/course/computational-photography--ud955) - Irfan Essa (Georgia Tech)
 * [Courses in Graphics](http://graphics.stanford.edu/courses/) - Stanford University
 * [Computational Photography](http://cs.nyu.edu/~fergus/teaching/comp_photo/index.html) - Rob Fergus (NYU)
 * [Introduction to Visual Computing](http://www.cs.toronto.edu/~kyros/courses/320/) - Kyros Kutulakos (University of Toronto)
