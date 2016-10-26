@@ -66,7 +66,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computer Vision](https://courses.engr.illinois.edu/cs543/sp2015/) - Derek Hoiem (UIUC)
  * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html) - Kalanit Grill-Spector and Fei-Fei Li (Stanford University)
  * [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/) - Fei-Fei Li (Stanford University)
- * [Advances in Computer Vision](http://6.869.csail.mit.edu/fall14/) - Antonio Torralba and Bill Freeman (MIT)
+ * [Advances in Computer Vision](http://6.869.csail.mit.edu/fa15/) - Antonio Torralba and Bill Freeman (MIT)
  * [Computer Vision](http://www.vision.rwth-aachen.de/teaching/lecture_computer_vision/winter-13-14) - Bastian Leibe (RWTH Aachen University)
  * [Computer Vision 2](http://www.vision.rwth-aachen.de/teaching/lecture_computer_vision_2/summer-14) - Bastian Leibe (RWTH Aachen University)
 
@@ -454,7 +454,7 @@ Non-uniform Deblurring
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
  * [Edge Boxes](https://github.com/pdollar/edges)
  * [ReInspect](https://github.com/Russell91/ReInspect)
- 
+
 #### Nearest Neighbor Search
 
 ###### General purpose nearest neighbor search
@@ -689,7 +689,7 @@ Non-uniform Deblurring
  * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
  * [AI Shack](http://aishack.in/) - Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
- 
+
 
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
@@ -698,7 +698,7 @@ Non-uniform Deblurring
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
-* 
+*
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
