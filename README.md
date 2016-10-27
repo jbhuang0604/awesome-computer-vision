@@ -131,6 +131,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
 
 #### Recent Conference Talks
+- [ECCV 2016](http://www.eccv2016.org/) - Oct 2016
+- [CVPR 2016](http://cvpr2016.thecvf.com/) - Jun 2016
 - [CVPR 2015](http://www.pamitc.org/cvpr15/) - Jun 2015
 - [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
 - [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
