@@ -97,6 +97,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Machine Learning](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html) - Andrew Zisserman (University of Oxford)
  * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (Stanford University)
  * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (Georgia Tech)
+ * [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
 
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
