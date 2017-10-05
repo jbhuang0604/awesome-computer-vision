@@ -474,6 +474,7 @@ Non-uniform Deblurring
  * [ANN: A Library for Approximate Nearest Neighbor Searching](http://www.cs.umd.edu/~mount/ANN/)
  * [FLANN - Fast Library for Approximate Nearest Neighbors](http://www.cs.ubc.ca/research/flann/)
  * [Fast k nearest neighbor search using GPU](http://vincentfpgarcia.github.io/kNN-CUDA/)
+ * [Product-Quantization-Tree: GPU-based large scale ANN Search](https://github.com/cgtuebingen/Product-Quantization-Tree)
 
 ###### Nearest Neighbor Field Estimation
  * [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
