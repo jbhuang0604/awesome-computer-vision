@@ -537,6 +537,7 @@ Non-uniform Deblurring
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
  * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
  * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
+ * [CATS: A color and Thermal Stereo dataset](http://vims.cis.udel.edu/cats/)
 
 ###### Optical Flow
  * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
