@@ -637,8 +637,9 @@ Non-uniform Deblurring
  * [Microsoft COCO](http://mscoco.org/)
 
 #### Scene Understanding
- # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
- # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
+ * [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
+ * [NYU Depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
+ * [Matterport3D](https://niessner.github.io/Matterport/) - Learning from RGB-D data in indoor environments
 
 ## Resources for students
 
