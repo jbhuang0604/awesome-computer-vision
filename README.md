@@ -307,6 +307,9 @@ BM3D, KSVD,
  * [Transformed Self-Exemplars](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
     * Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, Single Image Super-Resolution using Transformed Self-Exemplars, IEEE Conference on Computer Vision and Pattern Recognition, 2015
 
+* [LapSRN](http://vllab.ucmerced.edu/wlai24/LapSRN/)
+    * Wei-Shang Lai, Jia-Bin Huang, Narenra Ahuja and Ming-Hsuan Yang, Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
+
 ###### Image Deblurring
 
 Non-blind deconvolution
