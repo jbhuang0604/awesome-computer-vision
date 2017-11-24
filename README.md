@@ -538,6 +538,7 @@ Non-uniform Deblurring
  * [CVOnline Dataset](http://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
  * [CV datasets](http://clickdamage.com/sourcecode/cv_datasets.php)
  * [visionbib](http://datasets.visionbib.com/info-index.html)
+ * [VisualData](http://www.visualdata.io/)
 
 #### Low-level Vision
 
