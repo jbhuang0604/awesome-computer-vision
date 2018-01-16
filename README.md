@@ -175,6 +175,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) - William T. Freeman (MIT) 2011
  * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (CMU) 2008
  * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) - Yair Weiss (The Hebrew University of Jerusalem) 2009
+ * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario) 2018
 
 #### Object Recognition
  * [Object Recognition](http://research.microsoft.com/apps/video/dl.aspx?id=231358) - Larry Zitnick (Microsoft Research)
