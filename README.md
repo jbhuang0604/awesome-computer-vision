@@ -105,7 +105,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (Stanford University)
  * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (Georgia Tech)
  * [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
- * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl - Rudolph Triebel (TU Munich)
+ * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) - Rudolph Triebel (TU Munich)
 
 
 
