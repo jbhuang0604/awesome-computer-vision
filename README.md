@@ -655,6 +655,10 @@ Non-uniform Deblurring
  # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
  # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
 
+#### Aerial images
+ # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
+
+
 ## Resources for students
 
 #### Resource link collection
