@@ -723,6 +723,10 @@ Non-uniform Deblurring
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *
+## Projects
+* Introduction to computer vision (http://www.cs.cornell.edu/courses/cs4670/2010fa/projects/final/)
+* Project ideas (http://www-cs.ccny.cuny.edu/~zhu/CSCI6716-2011s/ProjectTopicsSpring2011.pdf)
+
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
@@ -734,3 +738,5 @@ License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
+
+
