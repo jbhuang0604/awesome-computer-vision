@@ -18,6 +18,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Resources for students](#resources-for-students)
  - [Blogs](#blogs)
  - [Links](#links)
+ - [Projects](#projects)
  - [Songs](#songs)
 
 ## Books
