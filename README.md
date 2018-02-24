@@ -634,6 +634,10 @@ Non-uniform Deblurring
  * [Caltech Pedestrian Detection Benchmark](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
  * [ETHZ Pedestrian Detection](https://data.vision.ee.ethz.ch/cvl/aess/dataset/)
 
+###### Person Re-identification
+ * [Market-1501 Dataset](http://www.liangzheng.org/Project/project_reid.html)
+ * [DukeMTMC-reID Dataset](https://github.com/layumi/DukeMTMC-reID_evaluation/wiki/DukeMTMC-reID)
+
 #### Action Recognition
 
 ###### Image-based
