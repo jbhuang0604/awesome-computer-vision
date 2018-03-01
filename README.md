@@ -201,6 +201,12 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Deep Learning
  * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn/) - Geoffrey E. Hinton (University of Toronto)
+ * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Andrew Ng (Coursera)
+ 	* [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+	* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+	* [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+	* [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+	* [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
  * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov (University of Toronto)
  * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) - Yoshua Bengio (University of Montreal)
  * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky (University of Toronto)
