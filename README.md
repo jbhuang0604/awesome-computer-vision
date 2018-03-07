@@ -245,7 +245,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/) - Multiple View Geometry; Structure from Motion library & softwares
 * [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
-* [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
+* [Floating Scale Surface Reconstruction](https://www.gcc.tu-darmstadt.de/home/proj/fssr/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
 
