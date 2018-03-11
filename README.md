@@ -233,6 +233,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 * [PCL: Point Cloud Library](http://pointclouds.org/)
 * [ImageUtilities](https://gitorious.org/imageutilities)
+* [BoofCV](http://boofcv.org/)
 
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
@@ -417,6 +418,7 @@ Non-uniform Deblurring
 #### Camera calibration
  * [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
  * [Camera calibration With OpenCV](http://docs.opencv.org/trunk/doc/tutorials/calib3d/camera_calibration/camera_calibration.html#)
+ * [Camera calibration With BoofCV](https://boofcv.org/index.php?title=Tutorial_Camera_Calibration)
  * [Multiple Camera Calibration Toolbox](https://sites.google.com/site/prclibo/toolbox)
 
 #### Simultaneous localization and mapping
@@ -474,7 +476,8 @@ Non-uniform Deblurring
  * [ANN: A Library for Approximate Nearest Neighbor Searching](http://www.cs.umd.edu/~mount/ANN/)
  * [FLANN - Fast Library for Approximate Nearest Neighbors](http://www.cs.ubc.ca/research/flann/)
  * [Fast k nearest neighbor search using GPU](http://vincentfpgarcia.github.io/kNN-CUDA/)
-
+ * [DDogleg: Approximate and Exact Methods in Java](http://ddogleg.org)
+ 
 ###### Nearest Neighbor Field Estimation
  * [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
  * [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
