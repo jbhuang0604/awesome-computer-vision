@@ -155,4 +155,4 @@ and INRIA Paris-Rocquencourt)
       * [Daniel Goldman](http://www.adobe.com/technology/people/seattle/dan-goldman.html) (Adobe)
    * [Philippe Lacroute](http://www.lacroute.org/lacroute/) (Stanford University)
    
- * [Deva Ramanan](https://www.cs.cmu.edu/~deva/) (CMU)
+* [Deva Ramanan](https://www.cs.cmu.edu/~deva/) (CMU)
