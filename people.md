@@ -75,6 +75,7 @@ Sources:
    * [Charles R. Dyer](http://pages.cs.wisc.edu/~dyer/) (University of Wisconsin - Madison)
       * [Steven Seitz](http://homes.cs.washington.edu/~seitz/) (University of Washington)
         * [Noah Snavely](http://www.cs.cornell.edu/~snavely/) (Cornell University/Google)
+        * [David Forsyth](http://luthuli.cs.uiuc.edu/~daf/) (University of Illinois Urbana-Champaign)
         * [Li Zhang](http://pages.cs.wisc.edu/~lizhang/) (Google)
         * [Jovan Popović](http://www.adobe.com/technology/people/seattle/jovan-popovic.html) (Adobe Research)
         * [Daniel Goldman](http://www.adobe.com/technology/people/seattle/dan-goldman.html) (Adobe)
