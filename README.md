@@ -129,7 +129,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 #### Survey Papers
  * [Visionbib Survey Paper List](http://surveys.visionbib.com/index.html)
  * [Foundations and Trends® in Computer Graphics and Vision](http://www.nowpublishers.com/CGV)
- * [Computer Vision: A Reference Guide](http://link.springer.com/book/10.1007/978-0-387-31439-6)
+ * [Computer Vision: A Reference Guide](https://www.springer.com/gp/book/9780387307718)
 
 ## Tutorials and talks
 
