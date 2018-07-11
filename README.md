@@ -519,6 +519,10 @@ Non-uniform Deblurring
  * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimization and inference solver
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
+#### Image Augmentation
+ * [Albumentations](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques.
+ Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
+
 #### Deep Learning
  * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
