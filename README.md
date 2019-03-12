@@ -511,7 +511,8 @@ Non-uniform Deblurring
 #### Human-in-the-loop systems
 
 #### Image Captioning
- * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) -
+ * [NeuralTalk](https://github.com/karpathy/neuraltalk)
+ * [awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning)
 
 #### Optimization
  * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
