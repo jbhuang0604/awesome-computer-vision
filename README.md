@@ -216,6 +216,12 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 ## Software
 
+#### Annotation tools
+* [Comma Coloring](http://commacoloring.herokuapp.com/)
+* [Annotorious](https://annotorious.github.io/)
+* [LabelME](http://labelme.csail.mit.edu/Release3.0/)
+* [gtmaker](https://github.com/sanko-shoko/gtmaker)
+
 #### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
