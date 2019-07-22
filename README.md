@@ -720,6 +720,8 @@ Non-uniform Deblurring
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
+* [awesome-super-resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *
