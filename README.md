@@ -94,6 +94,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Machine Learning and Statistical Learning
  * [Machine Learning](https://www.coursera.org/learn/machine-learning) - Andrew Ng (Stanford University)
+ * [Beginning ML with TensorFlow.js](https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js) - JavaScript ML (Infinite Red Academy)
  * [Learning from Data](https://work.caltech.edu/telecourse.html) - Yaser S. Abu-Mostafa (Caltech)
  * [Statistical Learning](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Trevor Hastie and Rob Tibshirani (Stanford University)
  * [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall14/) - Tomaso Poggio, Lorenzo Rosasco, Carlo Ciliberto, Charlie Frogner, Georgios Evangelopoulos, Ben Deen (MIT)
