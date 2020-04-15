@@ -239,6 +239,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 * [PCL: Point Cloud Library](http://pointclouds.org/)
 * [ImageUtilities](https://gitorious.org/imageutilities)
+* [cv2studio: Chain Development Framework](https://github.com/VoIlAlex/cv2studio)
 
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
