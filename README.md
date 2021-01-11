@@ -65,6 +65,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
  - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
  - [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
+ - [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
 
 ## Books
 
