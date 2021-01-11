@@ -63,6 +63,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awsome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
  - [Awesome Vision + Language](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
  - [Aweseom Robotics](https://github.com/kiloreux/awesome-robotics)
+ - [Aweseom Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
 ## Books
 
