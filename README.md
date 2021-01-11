@@ -60,10 +60,11 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Machine Learning in Biomedical(Healthcare) Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
  - [Awesome Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
  - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
- - [Awsome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
+ - [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
  - [Awesome Vision + Language](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
- - [Aweseom Robotics](https://github.com/kiloreux/awesome-robotics)
- - [Aweseom Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+ - [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+ - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+ - [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
 
 ## Books
 
