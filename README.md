@@ -595,6 +595,7 @@ Non-uniform Deblurring
  * [CV datasets](http://clickdamage.com/sourcecode/cv_datasets.php)
  * [visionbib](http://datasets.visionbib.com/info-index.html)
  * [VisualData](http://www.visualdata.io/)
+ * [Kaggle CV Datasets](https://www.kaggle.com/datasets?tags=13207-Computer+Vision)
 
 #### Low-level Vision
 
