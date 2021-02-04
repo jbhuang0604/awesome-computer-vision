@@ -67,6 +67,15 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
  - [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
  - [Awesome Makeup Transfer](https://github.com/thaoshibe/awesome-makeup-transfer)
+ - [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
+ - [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
+ - [Awsome Deep Geometry Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
+ - [Awesome Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
+ - [Awesome Neuron Segmentation in EM Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
+ - [Awsome Delineation](https://github.com/subeeshvasu/Awsome_Delineation)
+ - [Awesome ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
+ - [Awsome GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
+ 
 
 ## Books
 
