@@ -325,6 +325,7 @@ Non-blind deconvolution
  * [From Learning Models of Natural Image Patches to Whole Image Restoration](http://people.csail.mit.edu/danielzoran/epllcode.zip)
  * [Deep Convolutional Neural Network for Image Deconvolution](http://lxu.me/projects/dcnn/)
  * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
+ * [Non-blind Deblurring: Handling Kernel Uncertainty with CNNs](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
 Blind deconvolution
  * [Removing Camera Shake From A Single Photograph](http://www.cs.nyu.edu/~fergus/research/deblur.html)
