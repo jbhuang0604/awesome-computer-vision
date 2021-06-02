@@ -317,6 +317,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
+* [AliceVision](https://github.com/alicevision/AliceVision) open-source SfM-MVS library with related UI application  [Meshroom](https://github.com/alicevision/meshroom)
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 
