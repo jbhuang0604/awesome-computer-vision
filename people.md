@@ -154,3 +154,5 @@ and INRIA Paris-Rocquencourt)
       * [Yung-Yu Chuang](http://www.csie.ntu.edu.tw/~cyy/) (National Taiwan University)
       * [Daniel Goldman](http://www.adobe.com/technology/people/seattle/dan-goldman.html) (Adobe)
    * [Philippe Lacroute](http://www.lacroute.org/lacroute/) (Stanford University)
+   
+[Deva Ramanan](https://www.cs.cmu.edu/~deva/) (CMU)
