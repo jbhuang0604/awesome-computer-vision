@@ -93,7 +93,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
 * [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) - Justin Solomon 2015
 * [Image Processing and Analysis](https://www.amazon.com/Processing-Analysis-Activate-Learning-Engineering/dp/1285179528) - Stan Birchfield 2018
-* [Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/) - Silvio Savarese 2018
 
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
@@ -134,7 +133,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (TU Dresden):
  * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
  * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
-
+ * [Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/) - Silvio Savarese 2018
 
 
 
@@ -611,6 +610,12 @@ Non-uniform Deblurring
  * [VisualData](http://www.visualdata.io/)
 
 #### Low-level Vision
+
+###### Feature Descriptors (Patch datasets)
+* [HPatches dataset](https://github.com/hpatches/hpatches-dataset)
+* [Multi-view Stereo Correspondence Dataset](http://matthewalunbrown.com/patchdata/patchdata.html) - Similar to the PhotoTourism patches dataset
+* [PhotoTourism Patches](http://phototour.cs.washington.edu/patches/default.htm)
+* [PhotoSynth datasets](https://github.com/rmitra/PS-Dataset)
 
 ###### Stereo Vision
  * [Middlebury Stereo Vision](http://vision.middlebury.edu/stereo/)
