@@ -673,6 +673,9 @@ Non-uniform Deblurring
  * [The PASCAL Visual Object Classes](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
  * [ImageNet Large Scale Visual Recognition Challenge](http://www.image-net.org/challenges/LSVRC/2014/)
 
+###### Self-supervised Learning
+* [PASS: An An ImageNet replacement for self-supervised pretraining without humans](https://github.com/yukimasano/PASS)
+
 ###### Scene Recognition
  * [SUN Database](http://groups.csail.mit.edu/vision/SUN/)
  * [Place Dataset](http://places.csail.mit.edu/)
