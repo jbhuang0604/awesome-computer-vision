@@ -395,6 +395,7 @@ Non-blind deconvolution
  * [From Learning Models of Natural Image Patches to Whole Image Restoration](http://people.csail.mit.edu/danielzoran/epllcode.zip)
  * [Deep Convolutional Neural Network for Image Deconvolution](http://lxu.me/projects/dcnn/)
  * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
+ * [Non-blind Deblurring: Handling Kernel Uncertainty with CNNs](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
 Blind deconvolution
  * [Removing Camera Shake From A Single Photograph](http://www.cs.nyu.edu/~fergus/research/deblur.html)
@@ -793,6 +794,8 @@ Non-uniform Deblurring
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
+* [awesome-super-resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *
