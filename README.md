@@ -581,14 +581,14 @@ Non-uniform Deblurring
 #### Human-in-the-loop systems
 
 #### Biometrics
-* [Fingerprint Image Enhancement] (https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python)
-* [Fingerprint Minutiae Feature Extraction] (https://github.com/Utkarsh-Deshmukh/Fingerprint-Feature-Extraction)
+* [Fingerprint Image Enhancement](https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python)
+* [Fingerprint Minutiae Feature Extraction](https://github.com/Utkarsh-Deshmukh/Fingerprint-Feature-Extraction)
 
 #### Image Dehazing
-* [Single Image Dehazing with Boundary Constraint and Contextual Regularization] (https://github.com/Utkarsh-Deshmukh/Single-Image-Dehazing-Python)
+* [Single Image Dehazing with Boundary Constraint and Contextual Regularization](https://github.com/Utkarsh-Deshmukh/Single-Image-Dehazing-Python)
 
 #### Blur Localization
-* [Spatially Varying Blur Detection] (https://github.com/Utkarsh-Deshmukh/Spatially-Varying-Blur-Detection-python)
+* [Spatially Varying Blur Detection](https://github.com/Utkarsh-Deshmukh/Spatially-Varying-Blur-Detection-python)
 
 #### Image Captioning
  * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) -
