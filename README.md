@@ -385,6 +385,8 @@ BM3D, KSVD,
     * R. Timofte, V. De Smet, and L. Van Gool. A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution, ACCV 2014
  * [Transformed Self-Exemplars](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
     * Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, Single Image Super-Resolution using Transformed Self-Exemplars, IEEE Conference on Computer Vision and Pattern Recognition, 2015
+ * [EPSR](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw)
+    * Subeesh Vasu, Nimisha T. M., and A. N. Rajagopalan, Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network, ECCV Workshops, 2018
 
 ###### Image Deblurring
 
@@ -395,6 +397,7 @@ Non-blind deconvolution
  * [From Learning Models of Natural Image Patches to Whole Image Restoration](http://people.csail.mit.edu/danielzoran/epllcode.zip)
  * [Deep Convolutional Neural Network for Image Deconvolution](http://lxu.me/projects/dcnn/)
  * [Neural Deconvolution](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
+ * [Non-blind Deblurring: Handling Kernel Uncertainty with CNNs](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
 Blind deconvolution
  * [Removing Camera Shake From A Single Photograph](http://www.cs.nyu.edu/~fergus/research/deblur.html)
@@ -414,6 +417,7 @@ Non-uniform Deblurring
  * [Single Image Deblurring Using Motion Density Functions](http://grail.cs.washington.edu/projects/mdf_deblurring/)
  * [Image Deblurring using Inertial Measurement Sensors](http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/)
  * [Fast Removal of Non-uniform Camera Shake](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/)
+ * [From local to global: Edge profiles to camera motion in blurred images](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/)
 
 
 ###### Image Completion
