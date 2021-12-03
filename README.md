@@ -206,6 +206,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
 
 #### Recent Conference Talks
+- [CVPR 2017](http://cvpr2017.thecvf.com/) - Jul 2017
+- [ECCV 2016](http://www.eccv2016.org/) - Oct 2016
+- [CVPR 2016](http://cvpr2016.thecvf.com/) - Jun 2016
 - [CVPR 2015](http://www.pamitc.org/cvpr15/) - Jun 2015
 - [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
 - [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
@@ -385,6 +388,9 @@ BM3D, KSVD,
     * R. Timofte, V. De Smet, and L. Van Gool. A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution, ACCV 2014
  * [Transformed Self-Exemplars](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
     * Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, Single Image Super-Resolution using Transformed Self-Exemplars, IEEE Conference on Computer Vision and Pattern Recognition, 2015
+
+* [LapSRN](http://vllab.ucmerced.edu/wlai24/LapSRN/)
+    * Wei-Shang Lai, Jia-Bin Huang, Narenra Ahuja and Ming-Hsuan Yang, Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
 
 ###### Image Deblurring
 
@@ -617,6 +623,7 @@ Non-uniform Deblurring
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
  * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
  * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
+ * [CATS: A color and Thermal Stereo dataset](http://vims.cis.udel.edu/cats/)
 
 ###### Optical Flow
  * [Middlebury Optical Flow Evaluation](http://vision.middlebury.edu/flow/)
@@ -725,8 +732,9 @@ Non-uniform Deblurring
  * [Microsoft COCO](http://mscoco.org/)
 
 #### Scene Understanding
- # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
- # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
+ * [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
+ * [NYU Depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
+ * [Matterport3D](https://niessner.github.io/Matterport/) - Learning from RGB-D data in indoor environments
 
 #### Aerial images
  # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
