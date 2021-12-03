@@ -767,10 +767,10 @@ Non-uniform Deblurring
 #### Research
  * [How to do research](http://people.csail.mit.edu/billf/www/papers/doresearch.pdf) - William T. Freeman (MIT)
  * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Richard Hamming
- * [Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information](http://yima.csl.illinois.edu/psfile/bogus.pdf) - Yi Ma (UIUC)
+ * [Warning Signs of Bogus Progress in Research in an Age of Rich Computation and Information](http://people.eecs.berkeley.edu/~yima/psfile/bogus.pdf) - Yi Ma (UIUC)
  * [Seven Warning Signs of Bogus Science](http://www.quackwatch.com/01QuackeryRelatedTopics/signs.html) - Robert L. Park
  * [Five Principles for Choosing Research Problems in Computer Graphics](https://www.youtube.com/watch?v=v2Qaf8t8I6c) - Thomas Funkhouser (Cornell University)
- * [How To Do Research In the MIT AI Lab](http://www.cs.indiana.edu/mit.research.how.to.html) - David Chapman (MIT)
+ * [How To Do Research In the MIT AI Lab](http://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4) - David Chapman (MIT)
  * [Recent Advances in Computer Vision](http://www.slideshare.net/antiw/recent-advances-in-computer-vision) - Ming-Hsuan Yang (UC Merced)
  * [How to Come Up with Research Ideas in Computer Vision?](http://www.slideshare.net/jbhuang/how-to-come-up-with-new-research-ideas-4005840) - Jia-Bin Huang (UIUC)
  * [How to Read Academic Papers](http://www.slideshare.net/jbhuang/how-to-read-academic-papers) - Jia-Bin Huang (UIUC)
