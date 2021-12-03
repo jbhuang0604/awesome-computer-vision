@@ -203,7 +203,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
  * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
  * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (Australian National University)
- - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
+ * [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
+ * [Computer Vision Basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) - Alok Govil et al - 2020
 
 #### Recent Conference Talks
 - [CVPR 2015](http://www.pamitc.org/cvpr15/) - Jun 2015
