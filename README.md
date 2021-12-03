@@ -786,6 +786,7 @@ Non-uniform Deblurring
  * [AI Shack](http://aishack.in/) - Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
  * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
+ * [CV-Tricks](http://cv-tricks.com) - Koustubh Sinhal & Ankit Sachan cofounders of [iLenze](http://ilenze.com/)
 
 
 ## Links
