@@ -751,7 +751,7 @@ Non-uniform Deblurring
  * [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) - Aaron Hertzmann (Adobe Research)
  * [How to Write a Paper for SIGGRAPH](http://www.computer.org/csdl/mags/cg/1987/12/mcg1987120062.pdf) - Jim Blinn
  * [How to Get Your SIGGRAPH Paper Rejected](http://www.siggraph.org/sites/default/files/kajiya.pdf) - Jim Kajiya (Microsoft Research)
- * [How to write a SIGGRAPH paper](www.liyiwei.org/courses/how-siga11/liyiwei.pptx) - Li-Yi Wei (The University of Hong Kong)
+ * [How to write a SIGGRAPH paper](https://www.liyiwei.org/courses/how-siga11/liyiwei.pptx) - Li-Yi Wei (The University of Hong Kong)
  * [How to Write a Great Paper](http://www-hagen.informatik.uni-kl.de/~bertram/talks/getpublished.pdf) - Martin Martin Hering Hering--Bertram (Hochschule Bremen University of Applied Sciences)
  * [How to have a paper get into SIGGRAPH?](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) - Takeo Igarashi (The University of Tokyo)
  * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) - Marc H. Raibert (Boston Dynamics, Inc.)
@@ -806,4 +806,4 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Jia-Bin Huang](https://www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
