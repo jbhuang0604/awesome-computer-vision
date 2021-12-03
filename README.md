@@ -20,6 +20,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Resources for students](#resources-for-students)
  - [Blogs](#blogs)
  - [Links](#links)
+ - [Projects](#projects)
  - [Songs](#songs)
 
 ## Awesome Lists
@@ -134,7 +135,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (TU Dresden):
  * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
  * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
-
+ * [Computer Vision , From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/) silvio Savarese
 
 
 
@@ -796,6 +797,10 @@ Non-uniform Deblurring
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *
+## Projects
+* Introduction to computer vision (http://www.cs.cornell.edu/courses/cs4670/2010fa/projects/final/)
+* Project ideas (http://www-cs.ccny.cuny.edu/~zhu/CSCI6716-2011s/ProjectTopicsSpring2011.pdf)
+
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
@@ -807,3 +812,5 @@ License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
+
+
