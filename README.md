@@ -130,10 +130,11 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Advances in Computer Vision](http://6.869.csail.mit.edu/fa15/) - Antonio Torralba and Bill Freeman (MIT)
  * [Computer Vision](http://www.vision.rwth-aachen.de/course/11/) - Bastian Leibe (RWTH Aachen University)
  * [Computer Vision 2](http://www.vision.rwth-aachen.de/course/9/) - Bastian Leibe (RWTH Aachen University)
- * [Computer Vision](http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua (EPFL):
- * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (TU Dresden):
- * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
- * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
+ * [Computer Vision](http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua (EPFL)
+ * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (TU Dresden)
+ * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden)
+ * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich)
+ * [PyImageSearch Gurus](https://www.pyimagesearch.com/pyimagesearch-gurus/) Dr. Adrian Rosebrock (PyImageSearch)
 
 
 
@@ -303,6 +304,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 * [PCL: Point Cloud Library](http://pointclouds.org/)
 * [ImageUtilities](https://gitorious.org/imageutilities)
+* [imutils](https://github.com/jrosebr1/imutils) - Dr. Adrian Rosebrock
 
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
@@ -786,6 +788,7 @@ Non-uniform Deblurring
  * [AI Shack](http://aishack.in/) - Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
  * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
+ * [PyImageSearch](https://www.pyimagesearch.com) - Dr. Adrian Rosebrock
 
 
 ## Links
