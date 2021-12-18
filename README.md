@@ -77,6 +77,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
  - [Awsome GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
  - [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding)
+ - [Awesome Light Field](https://github.com/YuriyN/awesome-light-field)
  
 
 ## Books
