@@ -795,6 +795,7 @@ Non-uniform Deblurring
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
+* [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 *
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
