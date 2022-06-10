@@ -39,6 +39,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Images](https://github.com/heyalexej/awesome-images)
  - [Awesome Graphics](https://github.com/ericjang/awesome-graphics)
  - [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)
+ - [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
  - [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations)
  - [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
  - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
