@@ -285,6 +285,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Annotorious](https://annotorious.github.io/)
 * [LabelME](http://labelme.csail.mit.edu/Release3.0/)
 * [gtmaker](https://github.com/sanko-shoko/gtmaker)
+* [6D-PAT](https://github.com/florianblume/6d-pat)
 
 #### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
