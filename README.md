@@ -318,7 +318,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
-
+* [AliceVision](https://alicevision.org) - 3D Computer Vision framework including Structure-from-Motion, Multi-View Stereo and surface reconstruction
+* [Meshroom](https://github.com/alicevision/Meshroom) - A user-friendly 3D Computer Vision software
 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
