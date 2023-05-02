@@ -31,6 +31,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
  - [Awesome Scene Understanding](https://github.com/bertjiazheng/awesome-scene-understanding)
  - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+ - [Awesome AI Tools](https://github.com/Enableed/awesome-ai) 
  - [Awesome Adversarial Deep Learning](https://github.com/chbrian/awesome-adversarial-examples-dl)
  - [Awesome Face](https://github.com/polarisZhao/awesome-face)
  - [Awesome Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
