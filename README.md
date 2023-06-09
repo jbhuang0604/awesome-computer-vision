@@ -538,7 +538,7 @@ Non-uniform Deblurring
  * [Edge Boxes](https://github.com/pdollar/edges)
  * [ReInspect](https://github.com/Russell91/ReInspect)
 
-### Image Distillation
+### Distillation
 
 * [Autodistill: Images to inference with no labeling (use foundation models to train supervised models)](https://github.com/autodistill/autodistill)
 
