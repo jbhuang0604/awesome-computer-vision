@@ -795,7 +795,8 @@ Non-uniform Deblurring
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
-*
+* [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and so on.
+
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
