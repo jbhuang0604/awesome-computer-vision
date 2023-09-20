@@ -795,7 +795,8 @@ Non-uniform Deblurring
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
-*
+* [Comet](https://github.com/comet-ml/comet-examples/blob/master/readme.md) - An MLOps platform that includes experiment tracking, a model registry, model production management, and data lineage to support your workflow from training straight through to production.
+* [CometLLM](https://github.com/comet-ml/comet-llm) - Log, visualize, manage, and search your LLM prompts, prompt templates, prompt variables, and prompt chains.
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
