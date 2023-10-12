@@ -99,6 +99,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
 * [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) - Adrian Rosebrock
 * [OpenCV Essentials](http://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#) - Oscar Deniz Suarez, Mª del Milagro Fernandez Carrobles, Noelia Vallez Enano, Gloria Bueno Garcia, Ismael Serrano Gracia
+* [OpenCV basics with Python and C++ - lessons + projects] https://learnopencv.com/getting-started-with-opencv/
 
 #### Machine Learning
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop 2007
