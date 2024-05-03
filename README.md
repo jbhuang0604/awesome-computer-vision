@@ -34,6 +34,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Adversarial Deep Learning](https://github.com/chbrian/awesome-adversarial-examples-dl)
  - [Awesome Face](https://github.com/polarisZhao/awesome-face)
  - [Awesome Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+ - [Awesome Fiducial Markers](https://github.com/alitourani/awesome-fiducial-marker)
  - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
  - [Awesome medical imaging](https://github.com/fepegar/awesome-medical-imaging)
  - [Awesome Images](https://github.com/heyalexej/awesome-images)
