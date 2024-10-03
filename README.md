@@ -94,6 +94,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) - Justin Solomon 2015
 * [Image Processing and Analysis](https://www.amazon.com/Processing-Analysis-Activate-Learning-Engineering/dp/1285179528) - Stan Birchfield 2018
 * [Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/) - Silvio Savarese 2018
+* [Generative AI in Computer Vision](https://www.manning.com/books/generative-ai-in-computer-vision) - Vladimir Bok 2024
 
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
