@@ -14,6 +14,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Courses](#courses)
  - [Papers](#papers)
  - [Software](#software)
+ - [Hardware](#hardware)
  - [Datasets](#datasets)
  - [Pre-trained Computer Vision Models](#Pre-trained-Computer-Vision-Models)
  - [Tutorials and Talks](#tutorials-and-talks)
@@ -596,6 +597,10 @@ Non-uniform Deblurring
  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+
+## Hardware
+ * [Robopipe Machine Vision System](https://robopipe.io)
+ * [Luxonis Cameras](https://luxonis.com)
 
 ## Datasets
 
