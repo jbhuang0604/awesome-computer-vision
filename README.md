@@ -46,6 +46,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Robotics Datasets](https://github.com/sunglok/awesome-robotics-datasets)
  - [Awesome Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
  - [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+ - [Awesome Large Vision Models Attribution](https://github.com/leo-xfm/awesome-cv-attributions)
  - [Awesome Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
  - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
  - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
