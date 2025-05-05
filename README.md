@@ -15,7 +15,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Papers](#papers)
  - [Software](#software)
  - [Datasets](#datasets)
- - [Pre-trained Computer Vision Models](#Pre-trained-Computer-Vision-Models)
+ - [Pre-trained Computer Vision Models](#pre-trained-computer-vision-models)
  - [Tutorials and Talks](#tutorials-and-talks)
  - [Resources for students](#resources-for-students)
  - [Blogs](#blogs)
@@ -77,6 +77,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
  - [Awsome GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
  - [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding)
+ - [Awesome 3D Scene Generation](https://github.com/hzxie/Awesome-3D-Scene-Generation)
  
 
 ## Books
