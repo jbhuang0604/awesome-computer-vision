@@ -301,6 +301,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
+* [imtile](https://github.com/omarkamelte/imtile) - Lightweight image tiling and seamless reconstruction with overlap blending for deep learning inference on large images.
 * [PCL: Point Cloud Library](http://pointclouds.org/)
 * [ImageUtilities](https://gitorious.org/imageutilities)
 
