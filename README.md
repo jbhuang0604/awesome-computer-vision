@@ -4,6 +4,7 @@ A curated list of awesome computer vision resources, inspired by [awesome-php](h
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent computer vision orchestration, automated image analysis pipelines, and model coordination. MIT licensed.
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (jbhuang@vt.edu) to add links.
 
