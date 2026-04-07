@@ -284,6 +284,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Comma Coloring](http://commacoloring.herokuapp.com/)
 * [Annotorious](https://annotorious.github.io/)
 * [LabelME](http://labelme.csail.mit.edu/Release3.0/)
+* [LightlyStudio](https://github.com/lightly-ai/lightly-studio)
 * [gtmaker](https://github.com/sanko-shoko/gtmaker)
 
 #### External Resource Links
