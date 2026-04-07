@@ -795,6 +795,7 @@ Non-uniform Deblurring
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 *
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
