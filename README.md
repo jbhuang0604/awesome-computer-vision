@@ -291,6 +291,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (West Virginia University)
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html)
+ * [DataVLab](https://datavlab.ai)
 
 #### General Purpose Computer Vision Library
 * [Open CV](http://opencv.org/)
