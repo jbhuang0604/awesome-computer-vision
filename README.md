@@ -79,6 +79,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding)
  
 
+- [YOLOv8 by Ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLOv8 for object detection, segmentation, and classification.
 ## Books
 
 #### Computer Vision
