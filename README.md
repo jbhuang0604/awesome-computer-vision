@@ -298,6 +298,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [SimpleCV](http://simplecv.org/)
 * [Open source Python module for computer vision](https://github.com/jesolem/PCV)
 * [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv)
+* [FaceX: Pure C face recognition + 3D mesh + anti-spoof engine, also runs in the browser via WASM](https://github.com/facex-engine/facex)
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
