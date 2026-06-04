@@ -591,6 +591,7 @@ Non-uniform Deblurring
 
 #### Deep Learning
  * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+ * [bnnr](https://github.com/bnnr-team/bnnr) - PyTorch toolkit for XAI-driven model diagnostics and augmentation search; generates saliency overlay failure reports from any checkpoint without retraining.
 
 #### Machine Learning
  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
