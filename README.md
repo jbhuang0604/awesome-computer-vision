@@ -303,6 +303,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 * [PCL: Point Cloud Library](http://pointclouds.org/)
 * [ImageUtilities](https://gitorious.org/imageutilities)
+* [cv-evidence-renderer](https://github.com/ddinhcchi/cv-evidence-renderer) - Python library for evidence MP4 clips from detection events. Cross-file event concat (NVR-style split files), decode-once batch render, bbox burn-in. MIT.
 
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
