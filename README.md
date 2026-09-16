@@ -287,6 +287,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [gtmaker](https://github.com/sanko-shoko/gtmaker)
 
 #### External Resource Links
+* [Face Shape Detector](https://myfaceshapechart.com/) - Browser-based face shape measurement tool using MediaPipe Face Landmarker; no photo upload.
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) - CVPapers
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (West Virginia University)
