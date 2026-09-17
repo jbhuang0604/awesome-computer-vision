@@ -60,7 +60,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
  - [Awesome Machine Learning in Biomedical(Healthcare) Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
  - [Awesome Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
- - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
  - [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
  - [Awesome Vision + Language](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
  - [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
