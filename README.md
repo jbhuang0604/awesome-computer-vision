@@ -303,6 +303,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
 * [PCL: Point Cloud Library](http://pointclouds.org/)
 * [ImageUtilities](https://gitorious.org/imageutilities)
+* [Pixeltable](https://github.com/pixeltable/pixeltable) - Declarative multimodal data engine with native image and video frame extraction, object detection indexing, and incremental computation.
 
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
