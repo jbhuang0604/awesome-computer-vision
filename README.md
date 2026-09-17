@@ -581,7 +581,7 @@ Non-uniform Deblurring
 #### Human-in-the-loop systems
 
 #### Image Captioning
- * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) -
+ * [NeuralTalk](https://github.com/karpathy/neuraltalk) -
 
 #### Optimization
  * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
@@ -725,11 +725,11 @@ Non-uniform Deblurring
  * [Microsoft COCO](http://mscoco.org/)
 
 #### Scene Understanding
- # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
- # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
+ * [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
+ * [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
 
 #### Aerial images
- # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
+ * [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
 
 
 ## Resources for students
