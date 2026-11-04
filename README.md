@@ -194,6 +194,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
  ## Pre-trained Computer Vision Models
  * [List of Computer Vision models](https://github.com/shubham-shahh/Open-Source-Models) These models are trained on custom objects
+ * [YOLOVAL game-detection models](https://github.com/bbshdh56/yoloval-onnx-models) - Game-specific ONNX object detection models with 32 visual examples and a paid model catalog.
 
 ## Tutorials and talks
 
