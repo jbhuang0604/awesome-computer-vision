@@ -416,6 +416,9 @@ Non-uniform Deblurring
  * [Fast Removal of Non-uniform Camera Shake](http://webdav.is.mpg.de/pixel/fast_removal_of_camera_shake/)
 
 
+###### Video Frame Interpolation
+ * [MoG-VFI](https://github.com/MCG-NJU/MoG-VFI) - Flow-guided generative interpolation using pretrained video diffusion. [SCIS 2026 paper](https://link.springer.com/article/10.1007/s11432-025-4920-3)
+
 ###### Image Completion
  * [GIMP Resynthesizer](http://registry.gimp.org/node/27986)
  * [Priority BP](http://lafarren.com/image-completer/)
@@ -527,6 +530,8 @@ Non-uniform Deblurring
  * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (CMU)
  * [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
 
+* [MJev-Spatial](https://github.com/Fr0zenCrane/MJev-Spatial) - Spatial choices, numerical estimates and image pointing through supervised native attention candidate scoring. [Paper](https://arxiv.org/abs/2610.22276)
+
 #### Object Detection
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
  * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
@@ -576,9 +581,14 @@ Non-uniform Deblurring
 
 #### Action Reconition
 
+* [AWT](https://github.com/MCG-NJU/AWT) - Augmentation, weighting and optimal transport for vision-language transfer, with evaluated zero-shot video action recognition. [NeurIPS 2024 paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html)
+
 #### Egocentric cameras
 
 #### Human-in-the-loop systems
+
+* [OneStreamer](https://github.com/MCG-NJU/OneStreamer) - Streaming video perception, timestamped caption memory and proactive responses. [Paper](https://arxiv.org/abs/2610.01762)
+ * [JoyAI-VL-Interaction](https://github.com/jd-opensource/JoyAI-VL-Interaction) - Vision-first continuous interaction with learned response/delegation decisions. [Paper](https://arxiv.org/abs/2606.14777)
 
 #### Image Captioning
  * [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) -
